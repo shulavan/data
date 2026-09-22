@@ -1,0 +1,482 @@
+{
+"2": [
+{
+"sentence": "社会の秩序を維持する。",
+"words": [
+{
+"word": "秩序",
+"reading": "チツジョ",
+"kanjis": [
+{ "char": "秩", "reading": "チツ", "type": "音読み" },
+{ "char": "序", "reading": "ジョ", "type": "音読み" }
+]
+},
+{
+"word": "維持",
+"reading": "イジ",
+"kanjis": [
+{ "char": "維", "reading": "イ", "type": "音読み" },
+{ "char": "持", "reading": "ジ", "type": "音読み" }
+]
+}
+]
+},
+{
+"sentence": "健康を保持するために毎朝運動する。",
+"words": [
+{
+"word": "健康",
+"reading": "ケンコウ",
+"kanjis": [
+{ "char": "健", "reading": "ケン", "type": "音読み" },
+{ "char": "康", "reading": "コウ", "type": "音読み" }
+]
+},
+{
+"word": "保持",
+"reading": "ホジ",
+"kanjis": [
+{ "char": "保", "reading": "ホ", "type": "音読み" }
+]
+}
+]
+},
+{
+"sentence": "専門的な高度の知識を修得する。",
+"words": [
+{
+"word": "専門",
+"reading": "センモン",
+"kanjis": [
+{ "char": "専", "reading": "セン", "type": "音読み" },
+{ "char": "門", "reading": "モン", "type": "音読み" }
+]
+},
+{
+"word": "修得",
+"reading": "シュウトク",
+"kanjis": [
+{ "char": "修", "reading": "シュウ", "type": "音読み" },
+{ "char": "得", "reading": "トク", "type": "音読み" }
+]
+}
+]
+},
+{
+"sentence": "定期的な点検を確実に行う。",
+"words": [
+{
+"word": "定期",
+"reading": "テイキ",
+"kanjis": [
+{ "char": "定", "reading": "テイ", "type": "音読み" },
+{ "char": "期", "reading": "キ", "type": "音読み" }
+]
+},
+{
+"word": "確実",
+"reading": "カクジツ",
+"kanjis": [
+{ "char": "確", "reading": "カク", "type": "音読み" },
+{ "char": "実", "reading": "ジツ", "type": "音読み" }
+]
+}
+]
+},
+{
+"sentence": "復習を徹底して知識を定着させる。",
+"words": [
+{
+"word": "復習",
+"reading": "フクシュウ",
+"kanjis": [
+{ "char": "復", "reading": "フク", "type": "音読み" },
+{ "char": "習", "reading": "シュウ", "type": "音読み" }
+]
+},
+{
+"word": "徹底",
+"reading": "テッテイ",
+"kanjis": [
+{ "char": "徹", "reading": "テツ", "type": "音読み" },
+{ "char": "底", "reading": "テイ", "type": "音読み" }
+]
+}
+]
+},
+{
+"sentence": "未知の分野へ挑戦する強い気持ち。",
+"words": [
+{
+"word": "未知",
+"reading": "ミチ",
+"kanjis": [
+{ "char": "未", "reading": "ミ", "type": "音読み" },
+{ "char": "知", "reading": "チ", "type": "音読み" }
+]
+},
+{
+"word": "挑戦",
+"reading": "チョウセン",
+"kanjis": [
+{ "char": "挑", "reading": "チョウ", "type": "音読み" },
+{ "char": "戦", "reading": "セン", "type": "音読み" }
+]
+}
+]
+},
+{
+"sentence": "正確な情報を速やかに共有する。",
+"words": [
+{
+"word": "正確",
+"reading": "セイカク",
+"kanjis": [
+{ "char": "正", "reading": "セイ", "type": "音読み" }
+]
+},
+{
+"word": "情報",
+"reading": "ジョウホウ",
+"kanjis": [
+{ "char": "情", "reading": "ジョウ", "type": "音読み" },
+{ "char": "報", "reading": "ホウ", "type": "音読み" }
+]
+}
+]
+},
+{
+"sentence": "伝統的な文化を継承する。",
+"words": [
+{
+"word": "継承",
+"reading": "ケイショウ",
+"kanjis": [
+{ "char": "継", "reading": "ケイ", "type": "音読み" },
+{ "char": "承", "reading": "ショウ", "type": "音読み" }
+]
+}
+]
+},
+{
+"sentence": "誠意を持って相手に対処する。",
+"words": [
+{
+"word": "誠意",
+"reading": "セイイ",
+"kanjis": [
+{ "char": "誠", "reading": "セイ", "type": "音読み" },
+{ "char": "意", "reading": "イ", "type": "音読み" }
+]
+}
+]
+},
+{
+"sentence": "庭先に美しい花が咲く。",
+"words": [
+{
+"word": "咲く",
+"reading": "さく",
+"kanjis": [
+{ "char": "咲", "reading": "サ", "type": "訓読み" }
+]
+}
+]
+},
+{
+"sentence": "高い志を胸に抱く。",
+"words": [
+{
+"word": "志",
+"reading": "こころざし",
+"kanjis": [
+{ "char": "志", "reading": "ココロザシ", "type": "訓読み" }
+]
+},
+{
+"word": "抱く",
+"reading": "いだく",
+"kanjis": [
+{ "char": "抱", "reading": "イダ", "type": "訓読み" }
+]
+}
+]
+},
+{
+"sentence": "重大な過ちを犯す。",
+"words": [
+{
+"word": "過ち",
+"reading": "あやまち",
+"kanjis": [
+{ "char": "過", "reading": "アヤマ", "type": "訓読み" }
+]
+},
+{
+"word": "犯す",
+"reading": "おかす",
+"kanjis": [
+{ "char": "犯", "reading": "オカ", "type": "訓読み" }
+]
+}
+]
+},
+{
+"sentence": "社会の発展に身を捧げる。",
+"words": [
+{
+"word": "捧げる",
+"reading": "ささげる",
+"kanjis": [
+{ "char": "捧", "reading": "ササ", "type": "訓読み" }
+]
+}
+]
+},
+{
+"sentence": "自らの非を素直に悟る。",
+"words": [
+{
+"word": "悟る",
+"reading": "さとる",
+"kanjis": [
+{ "char": "悟", "reading": "サト", "type": "訓読み" }
+]
+}
+]
+},
+{
+"sentence": "家族の健康を静かに祈る。",
+"words": [
+{
+"word": "祈る",
+"reading": "いのる",
+"kanjis": [
+{ "char": "祈", "reading": "イノ", "type": "訓読み" }
+]
+}
+]
+},
+{
+"sentence": "新しい困難に果敢に挑む。",
+"words": [
+{
+"word": "挑む",
+"reading": "いどむ",
+"kanjis": [
+{ "char": "挑", "reading": "イド", "type": "訓読み" }
+]
+}
+]
+},
+{
+"sentence": "静寂な庭園でしばし憩う。",
+"words": [
+{
+"word": "憩う",
+"reading": "いこう",
+"kanjis": [
+{ "char": "憩", "reading": "イコ", "type": "訓読み" }
+]
+}
+]
+},
+{
+"sentence": "豊かな実りを静かに祝う。",
+"words": [
+{
+"word": "祝う",
+"reading": "いわう",
+"kanjis": [
+{ "char": "祝", "reading": "イワ", "type": "訓読み" }
+]
+}
+]
+}
+],
+"1": [
+{
+"sentence": "重大な決断を前に躊躇する。",
+"words": [
+{
+"word": "決断",
+"reading": "ケツダン",
+"kanjis": [
+{ "char": "決", "reading": "ケツ", "type": "音読み" },
+{ "char": "断", "reading": "ダン", "type": "音読み" }
+]
+},
+{
+"word": "躊躇",
+"reading": "チュウチョ",
+"kanjis": [
+{ "char": "躊", "reading": "チュウ", "type": "音読み" },
+{ "char": "躇", "reading": "チョ", "type": "音読み" }
+]
+}
+]
+},
+{
+"sentence": "事態の裏側を細かく穿鑿する。",
+"words": [
+{
+"word": "穿鑿",
+"reading": "センサク",
+"kanjis": [
+{ "char": "穿", "reading": "セン", "type": "音読み" },
+{ "char": "鑿", "reading": "サク", "type": "音読み" }
+]
+}
+]
+},
+{
+"sentence": "饕餮のごとき並外れた食欲。",
+"words": [
+{
+"word": "饕餮",
+"reading": "トウテツ",
+"kanjis": [
+{ "char": "饕", "reading": "トウ", "type": "音読み" },
+{ "char": "餮", "reading": "テツ", "type": "音読み" }
+]
+}
+]
+},
+{
+"sentence": "麒麟児と称される稀代の天才。",
+"words": [
+{
+"word": "麒麟",
+"reading": "キリン",
+"kanjis": [
+{ "char": "麒", "reading": "キ", "type": "音読み" },
+{ "char": "麟", "reading": "リン", "type": "音読み" }
+]
+}
+]
+},
+{
+"sentence": "敵勢力が各地で暴虐の限りを尽くす。",
+"words": [
+{
+"word": "暴虐",
+"reading": "ボウギャク",
+"kanjis": [
+{ "char": "暴", "reading": "ボウ", "type": "音読み" },
+{ "char": "虐", "reading": "ギャク", "type": "音読み" }
+]
+}
+]
+},
+{
+"sentence": "権謀術数を巡らせて敵を翻弄する。",
+"words": [
+{
+"word": "翻弄",
+"reading": "ホンロウ",
+"kanjis": [
+{ "char": "翻", "reading": "ホン", "type": "音読み" },
+{ "char": "弄", "reading": "ロウ", "type": "音読み" }
+]
+}
+]
+},
+{
+"sentence": "仲間と連携して不測の事態を打開する。",
+"words": [
+{
+"word": "打開",
+"reading": "ダカイ",
+"kanjis": [
+{ "char": "打", "reading": "ダ", "type": "音読み" },
+{ "char": "開", "reading": "カイ", "type": "音読み" }
+]
+}
+]
+},
+{
+"sentence": "長時間の運動で喉が渇く。",
+"words": [
+{
+"word": "喉",
+"reading": "のど",
+"kanjis": [
+{ "char": "喉", "reading": "ノド", "type": "訓読み" }
+]
+}
+]
+},
+{
+"sentence": "春の訪れとともに蕾が膨らむ。",
+"words": [
+{
+"word": "蕾",
+"reading": "つぼみ",
+"kanjis": [
+{ "char": "蕾", "reading": "ツボミ", "type": "訓読み" }
+]
+}
+]
+},
+{
+"sentence": "ひそかに耳元で囁く。",
+"words": [
+{
+"word": "囁く",
+"reading": "ささやく",
+"kanjis": [
+{ "char": "囁", "reading": "ササヤ", "type": "訓読み" }
+]
+}
+]
+},
+{
+"sentence": "身の毛もよだつ恐ろしい光景。",
+"words": [
+{
+"word": "恐ろしい",
+"reading": "おそろしい",
+"kanjis": [
+{ "char": "恐", "reading": "オソロ", "type": "訓読み" }
+]
+}
+]
+},
+{
+"sentence": "静かなたたずまいのまま佇む。",
+"words": [
+{
+"word": "佇む",
+"reading": "たたずむ",
+"kanjis": [
+{ "char": "佇", "reading": "タタズ", "type": "訓読み" }
+]
+}
+]
+},
+{
+"sentence": "言葉の真意に深く頷く。",
+"words": [
+{
+"word": "頷く",
+"reading": "うなずく",
+"kanjis": [
+{ "char": "頷", "reading": "ウナズ", "type": "訓読み" }
+]
+}
+]
+},
+{
+"sentence": "澄み切った空を仰ぎ見る。",
+"words": [
+{
+"word": "仰ぎ見る",
+"reading": "あおぎみる",
+"kanjis": [
+{ "char": "仰", "reading": "アオ", "type": "訓読み" }
+]
+}
+]
+}
+]
+}
