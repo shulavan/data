@@ -1,482 +1,541 @@
 {
-"2": [
-{
-"sentence": "社会の秩序を維持する。",
-"words": [
-{
-"word": "秩序",
-"reading": "チツジョ",
-"kanjis": [
-{ "char": "秩", "reading": "チツ", "type": "音読み" },
-{ "char": "序", "reading": "ジョ", "type": "音読み" }
-]
-},
-{
-"word": "維持",
-"reading": "イジ",
-"kanjis": [
-{ "char": "維", "reading": "イ", "type": "音読み" },
-{ "char": "持", "reading": "ジ", "type": "音読み" }
-]
-}
-]
-},
-{
-"sentence": "健康を保持するために毎朝運動する。",
-"words": [
-{
-"word": "健康",
-"reading": "ケンコウ",
-"kanjis": [
-{ "char": "健", "reading": "ケン", "type": "音読み" },
-{ "char": "康", "reading": "コウ", "type": "音読み" }
-]
-},
-{
-"word": "保持",
-"reading": "ホジ",
-"kanjis": [
-{ "char": "保", "reading": "ホ", "type": "音読み" }
-]
-}
-]
-},
-{
-"sentence": "専門的な高度の知識を修得する。",
-"words": [
-{
-"word": "専門",
-"reading": "センモン",
-"kanjis": [
-{ "char": "専", "reading": "セン", "type": "音読み" },
-{ "char": "門", "reading": "モン", "type": "音読み" }
-]
-},
-{
-"word": "修得",
-"reading": "シュウトク",
-"kanjis": [
-{ "char": "修", "reading": "シュウ", "type": "音読み" },
-{ "char": "得", "reading": "トク", "type": "音読み" }
-]
-}
-]
-},
-{
-"sentence": "定期的な点検を確実に行う。",
-"words": [
-{
-"word": "定期",
-"reading": "テイキ",
-"kanjis": [
-{ "char": "定", "reading": "テイ", "type": "音読み" },
-{ "char": "期", "reading": "キ", "type": "音読み" }
-]
-},
-{
-"word": "確実",
-"reading": "カクジツ",
-"kanjis": [
-{ "char": "確", "reading": "カク", "type": "音読み" },
-{ "char": "実", "reading": "ジツ", "type": "音読み" }
-]
-}
-]
-},
-{
-"sentence": "復習を徹底して知識を定着させる。",
-"words": [
-{
-"word": "復習",
-"reading": "フクシュウ",
-"kanjis": [
-{ "char": "復", "reading": "フク", "type": "音読み" },
-{ "char": "習", "reading": "シュウ", "type": "音読み" }
-]
-},
-{
-"word": "徹底",
-"reading": "テッテイ",
-"kanjis": [
-{ "char": "徹", "reading": "テツ", "type": "音読み" },
-{ "char": "底", "reading": "テイ", "type": "音読み" }
-]
-}
-]
-},
-{
-"sentence": "未知の分野へ挑戦する強い気持ち。",
-"words": [
-{
-"word": "未知",
-"reading": "ミチ",
-"kanjis": [
-{ "char": "未", "reading": "ミ", "type": "音読み" },
-{ "char": "知", "reading": "チ", "type": "音読み" }
-]
-},
-{
-"word": "挑戦",
-"reading": "チョウセン",
-"kanjis": [
-{ "char": "挑", "reading": "チョウ", "type": "音読み" },
-{ "char": "戦", "reading": "セン", "type": "音読み" }
-]
-}
-]
-},
-{
-"sentence": "正確な情報を速やかに共有する。",
-"words": [
-{
-"word": "正確",
-"reading": "セイカク",
-"kanjis": [
-{ "char": "正", "reading": "セイ", "type": "音読み" }
-]
-},
-{
-"word": "情報",
-"reading": "ジョウホウ",
-"kanjis": [
-{ "char": "情", "reading": "ジョウ", "type": "音読み" },
-{ "char": "報", "reading": "ホウ", "type": "音読み" }
-]
-}
-]
-},
-{
-"sentence": "伝統的な文化を継承する。",
-"words": [
-{
-"word": "継承",
-"reading": "ケイショウ",
-"kanjis": [
-{ "char": "継", "reading": "ケイ", "type": "音読み" },
-{ "char": "承", "reading": "ショウ", "type": "音読み" }
-]
-}
-]
-},
-{
-"sentence": "誠意を持って相手に対処する。",
-"words": [
-{
-"word": "誠意",
-"reading": "セイイ",
-"kanjis": [
-{ "char": "誠", "reading": "セイ", "type": "音読み" },
-{ "char": "意", "reading": "イ", "type": "音読み" }
-]
-}
-]
-},
-{
-"sentence": "庭先に美しい花が咲く。",
-"words": [
-{
-"word": "咲く",
-"reading": "さく",
-"kanjis": [
-{ "char": "咲", "reading": "サ", "type": "訓読み" }
-]
-}
-]
-},
-{
-"sentence": "高い志を胸に抱く。",
-"words": [
-{
-"word": "志",
-"reading": "こころざし",
-"kanjis": [
-{ "char": "志", "reading": "ココロザシ", "type": "訓読み" }
-]
-},
-{
-"word": "抱く",
-"reading": "いだく",
-"kanjis": [
-{ "char": "抱", "reading": "イダ", "type": "訓読み" }
-]
-}
-]
-},
-{
-"sentence": "重大な過ちを犯す。",
-"words": [
-{
-"word": "過ち",
-"reading": "あやまち",
-"kanjis": [
-{ "char": "過", "reading": "アヤマ", "type": "訓読み" }
-]
-},
-{
-"word": "犯す",
-"reading": "おかす",
-"kanjis": [
-{ "char": "犯", "reading": "オカ", "type": "訓読み" }
-]
-}
-]
-},
-{
-"sentence": "社会の発展に身を捧げる。",
-"words": [
-{
-"word": "捧げる",
-"reading": "ささげる",
-"kanjis": [
-{ "char": "捧", "reading": "ササ", "type": "訓読み" }
-]
-}
-]
-},
-{
-"sentence": "自らの非を素直に悟る。",
-"words": [
-{
-"word": "悟る",
-"reading": "さとる",
-"kanjis": [
-{ "char": "悟", "reading": "サト", "type": "訓読み" }
-]
-}
-]
-},
-{
-"sentence": "家族の健康を静かに祈る。",
-"words": [
-{
-"word": "祈る",
-"reading": "いのる",
-"kanjis": [
-{ "char": "祈", "reading": "イノ", "type": "訓読み" }
-]
-}
-]
-},
-{
-"sentence": "新しい困難に果敢に挑む。",
-"words": [
-{
-"word": "挑む",
-"reading": "いどむ",
-"kanjis": [
-{ "char": "挑", "reading": "イド", "type": "訓読み" }
-]
-}
-]
-},
-{
-"sentence": "静寂な庭園でしばし憩う。",
-"words": [
-{
-"word": "憩う",
-"reading": "いこう",
-"kanjis": [
-{ "char": "憩", "reading": "イコ", "type": "訓読み" }
-]
-}
-]
-},
-{
-"sentence": "豊かな実りを静かに祝う。",
-"words": [
-{
-"word": "祝う",
-"reading": "いわう",
-"kanjis": [
-{ "char": "祝", "reading": "イワ", "type": "訓読み" }
-]
-}
-]
-}
-],
-"1": [
-{
-"sentence": "重大な決断を前に躊躇する。",
-"words": [
-{
-"word": "決断",
-"reading": "ケツダン",
-"kanjis": [
-{ "char": "決", "reading": "ケツ", "type": "音読み" },
-{ "char": "断", "reading": "ダン", "type": "音読み" }
-]
-},
-{
-"word": "躊躇",
-"reading": "チュウチョ",
-"kanjis": [
-{ "char": "躊", "reading": "チュウ", "type": "音読み" },
-{ "char": "躇", "reading": "チョ", "type": "音読み" }
-]
-}
-]
-},
-{
-"sentence": "事態の裏側を細かく穿鑿する。",
-"words": [
-{
-"word": "穿鑿",
-"reading": "センサク",
-"kanjis": [
-{ "char": "穿", "reading": "セン", "type": "音読み" },
-{ "char": "鑿", "reading": "サク", "type": "音読み" }
-]
-}
-]
-},
-{
-"sentence": "饕餮のごとき並外れた食欲。",
-"words": [
-{
-"word": "饕餮",
-"reading": "トウテツ",
-"kanjis": [
-{ "char": "饕", "reading": "トウ", "type": "音読み" },
-{ "char": "餮", "reading": "テツ", "type": "音読み" }
-]
-}
-]
-},
-{
-"sentence": "麒麟児と称される稀代の天才。",
-"words": [
-{
-"word": "麒麟",
-"reading": "キリン",
-"kanjis": [
-{ "char": "麒", "reading": "キ", "type": "音読み" },
-{ "char": "麟", "reading": "リン", "type": "音読み" }
-]
-}
-]
-},
-{
-"sentence": "敵勢力が各地で暴虐の限りを尽くす。",
-"words": [
-{
-"word": "暴虐",
-"reading": "ボウギャク",
-"kanjis": [
-{ "char": "暴", "reading": "ボウ", "type": "音読み" },
-{ "char": "虐", "reading": "ギャク", "type": "音読み" }
-]
-}
-]
-},
-{
-"sentence": "権謀術数を巡らせて敵を翻弄する。",
-"words": [
-{
-"word": "翻弄",
-"reading": "ホンロウ",
-"kanjis": [
-{ "char": "翻", "reading": "ホン", "type": "音読み" },
-{ "char": "弄", "reading": "ロウ", "type": "音読み" }
-]
-}
-]
-},
-{
-"sentence": "仲間と連携して不測の事態を打開する。",
-"words": [
-{
-"word": "打開",
-"reading": "ダカイ",
-"kanjis": [
-{ "char": "打", "reading": "ダ", "type": "音読み" },
-{ "char": "開", "reading": "カイ", "type": "音読み" }
-]
-}
-]
-},
-{
-"sentence": "長時間の運動で喉が渇く。",
-"words": [
-{
-"word": "喉",
-"reading": "のど",
-"kanjis": [
-{ "char": "喉", "reading": "ノド", "type": "訓読み" }
-]
-}
-]
-},
-{
-"sentence": "春の訪れとともに蕾が膨らむ。",
-"words": [
-{
-"word": "蕾",
-"reading": "つぼみ",
-"kanjis": [
-{ "char": "蕾", "reading": "ツボミ", "type": "訓読み" }
-]
-}
-]
-},
-{
-"sentence": "ひそかに耳元で囁く。",
-"words": [
-{
-"word": "囁く",
-"reading": "ささやく",
-"kanjis": [
-{ "char": "囁", "reading": "ササヤ", "type": "訓読み" }
-]
-}
-]
-},
-{
-"sentence": "身の毛もよだつ恐ろしい光景。",
-"words": [
-{
-"word": "恐ろしい",
-"reading": "おそろしい",
-"kanjis": [
-{ "char": "恐", "reading": "オソロ", "type": "訓読み" }
-]
-}
-]
-},
-{
-"sentence": "静かなたたずまいのまま佇む。",
-"words": [
-{
-"word": "佇む",
-"reading": "たたずむ",
-"kanjis": [
-{ "char": "佇", "reading": "タタズ", "type": "訓読み" }
-]
-}
-]
-},
-{
-"sentence": "言葉の真意に深く頷く。",
-"words": [
-{
-"word": "頷く",
-"reading": "うなずく",
-"kanjis": [
-{ "char": "頷", "reading": "ウナズ", "type": "訓読み" }
-]
-}
-]
-},
-{
-"sentence": "澄み切った空を仰ぎ見る。",
-"words": [
-{
-"word": "仰ぎ見る",
-"reading": "あおぎみる",
-"kanjis": [
-{ "char": "仰", "reading": "アオ", "type": "訓読み" }
-]
-}
-]
-}
-]
+  "1": [
+    {"sentence": "重大な決断を前に躊躇する。", "words": [{"word": "躊躇", "reading": "チュウチョ", "kanjis": [{"char": "躊", "reading": "チュウ", "type": "音読み"}, {"char": "躇", "reading": "チョ", "type": "音読み"}]}]},
+    {"sentence": "事態の裏側を細かく穿鑿する。", "words": [{"word": "穿鑿", "reading": "センサク", "kanjis": [{"char": "穿", "reading": "セン", "type": "音読み"}, {"char": "鑿", "reading": "サク", "type": "音読み"}]}]},
+    {"sentence": "饕餮のごとき並外れた食欲。", "words": [{"word": "饕餮", "reading": "トウテツ", "kanjis": [{"char": "饕", "reading": "トウ", "type": "音読み"}, {"char": "餮", "reading": "テツ", "type": "音読み"}]}]},
+    {"sentence": "麒麟児と称される稀代の天才。", "words": [{"word": "麒麟", "reading": "キリン", "kanjis": [{"char": "麒", "reading": "キ", "type": "音読み"}, {"char": "麟", "reading": "リン", "type": "音読み"}]}]},
+    {"sentence": "敵勢力が各地で暴虐の限りを尽くす。", "words": [{"word": "暴虐", "reading": "ボウギャク", "kanjis": [{"char": "暴", "reading": "ボウ", "type": "音読み"}, {"char": "虐", "reading": "ギャク", "type": "音読み"}]}]},
+    {"sentence": "権謀術数を巡らせて敵を翻弄する。", "words": [{"word": "翻弄", "reading": "ホンロウ", "kanjis": [{"char": "翻", "reading": "ホン", "type": "音読み"}, {"char": "弄", "reading": "ロウ", "type": "音読み"}]}]},
+    {"sentence": "仲間と連携して不測の事態を打開する。", "words": [{"word": "打開", "reading": "ダカイ", "kanjis": [{"char": "打", "reading": "ダ", "type": "音読み"}, {"char": "開", "reading": "カイ", "type": "音読み"}]}]},
+    {"sentence": "世間の虚飾を排して実をとる。", "words": [{"word": "虚飾", "reading": "キョショク", "kanjis": [{"char": "虚", "reading": "キョ", "type": "音読み"}, {"char": "飾", "reading": "ショク", "type": "音読み"}]}]},
+    {"sentence": "不屈の精神で難関を突破する。", "words": [{"word": "不屈", "reading": "フクツ", "kanjis": [{"char": "屈", "reading": "クツ", "type": "音読み"}]}]},
+    {"sentence": "事態の推移を慎重に見守る。", "words": [{"word": "推移", "reading": "スイイ", "kanjis": [{"char": "推", "reading": "スイ", "type": "音読み"}, {"char": "移", "reading": "イ", "type": "音読み"}]}]},
+    {"sentence": "自らの過ちを素直に認めて謝罪する。", "words": [{"word": "謝罪", "reading": "シャザイ", "kanjis": [{"char": "謝", "reading": "シャ", "type": "音読み"}, {"char": "罪", "reading": "ザイ", "type": "音読み"}]}]},
+    {"sentence": "相手の不当な要求をきっぱりと拒絶する。", "words": [{"word": "拒絶", "reading": "キョゼツ", "kanjis": [{"char": "拒", "reading": "キョ", "type": "音読み"}, {"char": "絶", "reading": "ゼツ", "type": "音読み"}]}]},
+    {"sentence": "旧態依然とした体制が瓦解する。", "words": [{"word": "瓦解", "reading": "ガカイ", "kanjis": [{"char": "瓦", "reading": "ガ", "type": "音読み"}, {"char": "解", "reading": "カイ", "type": "音読み"}]}]},
+    {"sentence": "国境付近で不測の紛争が勃発する。", "words": [{"word": "勃発", "reading": "ボッパツ", "kanjis": [{"char": "勃", "reading": "ボツ", "type": "音読み"}, {"char": "発", "reading": "ハツ", "type": "音読み"}]}]},
+    {"sentence": "得られた情報を深く分析して咀嚼する。", "words": [{"word": "咀嚼", "reading": "ソシャク", "kanjis": [{"char": "咀", "reading": "ソ", "type": "音読み"}, {"char": "嚼", "reading": "シャク", "type": "音読み"}]}]},
+    {"sentence": "読書を通じて豊かな教養を涵養する。", "words": [{"word": "涵養", "reading": "カンヨウ", "kanjis": [{"char": "涵", "reading": "カン", "type": "音読み"}, {"char": "養", "reading": "ヨウ", "type": "音読み"}]}]},
+    {"sentence": "盤石の態勢を整えて試合に臨む。", "words": [{"word": "盤石", "reading": "バンジャク", "kanjis": [{"char": "盤", "reading": "バン", "type": "音読み"}, {"char": "石", "reading": "ジャク", "type": "音読み"}]}]},
+    {"sentence": "初対面の相手と丁寧に挨拶を交わす。", "words": [{"word": "挨拶", "reading": "アイサツ", "kanjis": [{"char": "挨", "reading": "アイ", "type": "音読み"}, {"char": "札", "reading": "サツ", "type": "音読み"}]}]},
+    {"sentence": "根拠のない噂で他人を誹謗中傷する。", "words": [{"word": "誹謗", "reading": "ヒボウ", "kanjis": [{"char": "誹", "reading": "ヒ", "type": "音読み"}, {"char": "謗", "reading": "ボウ", "type": "音読み"}]}]},
+    {"sentence": "事実を捏造して世間を惑わす。", "words": [{"word": "捏造", "reading": "ネツゾウ", "kanjis": [{"char": "捏", "reading": "ネツ", "type": "音読み"}, {"char": "造", "reading": "ゾウ", "type": "音読み"}]}]},
+    {"sentence": "前人の記録を大幅に凌駕する。", "words": [{"word": "凌駕", "reading": "リョウガ", "kanjis": [{"char": "凌", "reading": "リョウ", "type": "音読み"}, {"char": "駕", "reading": "ガ", "type": "音読み"}]}]},
+    {"sentence": "敵の暴虐な主権侵害により踏みにじられ蹂躙される。", "words": [{"word": "蹂躙", "reading": "ジュウリン", "kanjis": [{"char": "蹂", "reading": "ジュウ", "type": "音読み"}, {"char": "躙", "reading": "リン", "type": "音読み"}]}]},
+    {"sentence": "暗闇の中で不気味な影が蠢動する。", "words": [{"word": "蠢動", "reading": "シュンドウ", "kanjis": [{"char": "蠢", "reading": "シュン", "type": "音読み"}, {"char": "動", "reading": "ドウ", "type": "音読み"}]}]},
+    {"sentence": "野山に猛獣の凄まじい咆哮が響き渡る。", "words": [{"word": "咆哮", "reading": "ホウコウ", "kanjis": [{"char": "咆", "reading": "ホウ", "type": "音読み"}, {"char": "哮", "reading": "コウ", "type": "音読み"}]}]},
+    {"sentence": "対立する相手と宥和政策をとる。", "words": [{"word": "宥和", "reading": "ユウワ", "kanjis": [{"char": "宥", "reading": "ユウ", "type": "音読み"}, {"char": "和", "reading": "ワ", "type": "音読み"}]}]},
+    {"sentence": "個人の多様な嗜好に応じた製品開発。", "words": [{"word": "嗜好", "reading": "シコウ", "kanjis": [{"char": "嗜", "reading": "シ", "type": "音読み"}, {"char": "好", "reading": "コウ", "type": "音読み"}]}]},
+    {"sentence": "静かな空間で深く瞑想に入る。", "words": [{"word": "瞑想", "reading": "メイソウ", "kanjis": [{"char": "瞑", "reading": "メイ", "type": "音読み"}, {"char": "想", "reading": "ソウ", "type": "音読み"}]}]},
+    {"sentence": "巧みな交渉で相手の動きを牽制する。", "words": [{"word": "牽制", "reading": "ケンセイ", "kanjis": [{"char": "牽", "reading": "ケン", "type": "音読み"}, {"char": "制", "reading": "セイ", "type": "音読み"}]}]},
+    {"sentence": "快楽に身を任せて深く耽溺する。", "words": [{"word": "耽溺", "reading": "タンデキ", "kanjis": [{"char": "耽", "reading": "タン", "type": "音読み"}, {"char": "溺", "reading": "デキ", "type": "音読み"}]}]},
+    {"sentence": "社会全体に悪習が蔓延する。", "words": [{"word": "蔓延", "reading": "マンエン", "kanjis": [{"char": "蔓", "reading": "マン", "type": "音読み"}, {"char": "延", "reading": "エン", "type": "音読み"}]}]},
+    {"sentence": "新興勢力が急速に勃興する。", "words": [{"word": "勃興", "reading": "ボッコウ", "kanjis": [{"char": "勃", "reading": "ボツ", "type": "音読み"}, {"char": "興", "reading": "コウ", "type": "音読み"}]}]},
+    {"sentence": "狡猾な手段でライバルを欺く。", "words": [{"word": "狡猾", "reading": "コウカツ", "kanjis": [{"char": "狡", "reading": "コウ", "type": "音読み"}, {"char": "猾", "reading": "カツ", "type": "音読み"}]}]},
+    {"sentence": "豪放闊達な人物として周囲に慕われる。", "words": [{"word": "闊達", "reading": "カッタツ", "kanjis": [{"char": "闊", "reading": "カツ", "type": "音読み"}, {"char": "達", "reading": "タツ", "type": "音読み"}]}]},
+    {"sentence": "傲慢な態度が災いして信用を失う。", "words": [{"word": "傲慢", "reading": "ゴウマン", "kanjis": [{"char": "傲", "reading": "ゴウ", "type": "音読み"}, {"char": "慢", "reading": "マン", "type": "音読み"}]}]},
+    {"sentence": "外部からの衝撃に非常に脆弱な構造。", "words": [{"word": "脆弱", "reading": "ゼイジャク", "kanjis": [{"char": "脆", "reading": "ゼイ", "type": "音読み"}, {"char": "弱", "reading": "ジャク", "type": "音読み"}]}]},
+    {"sentence": "過酷で苛烈な競争を勝ち抜く。", "words": [{"word": "苛烈", "reading": "カレツ", "kanjis": [{"char": "苛", "reading": "カ", "type": "音読み"}, {"char": "烈", "reading": "レツ", "type": "音読み"}]}]},
+    {"sentence": "絢爛豪華な衣装を身に纏う。", "words": [{"word": "絢爛", "reading": "ケンラン", "kanjis": [{"char": "絢", "reading": "ケン", "type": "音読み"}, {"char": "爛", "reading": "ラン", "type": "音読み"}]}]},
+    {"sentence": "海外から優秀な研究者を招聘する。", "words": [{"word": "招聘", "reading": "ショウヘイ", "kanjis": [{"char": "招", "reading": "ショウ", "type": "音読み"}, {"char": "聘", "reading": "ヘイ", "type": "音読み"}]}]},
+    {"sentence": "当事者間の調停を斡旋する。", "words": [{"word": "斡旋", "reading": "アッセン", "kanjis": [{"char": "斡", "reading": "アツ", "type": "音読み"}, {"char": "旋", "reading": "セン", "type": "音読み"}]}]},
+    {"sentence": "企業の信用と名誉を著しく毀損する。", "words": [{"word": "毀損", "reading": "キソン", "kanjis": [{"char": "毀", "reading": "キ", "type": "音読み"}, {"char": "損", "reading": "ソン", "type": "音読み"}]}]},
+    {"sentence": "重大な不祥事の事実を徹底的に隠蔽する。", "words": [{"word": "隠蔽", "reading": "インペイ", "kanjis": [{"char": "隠", "reading": "イン", "type": "音読み"}, {"char": "蔽", "reading": "ヘイ", "type": "音読み"}]}]},
+    {"sentence": "機密情報が外部へ漏洩するのを防ぐ。", "words": [{"word": "漏洩", "reading": "ロウエイ", "kanjis": [{"char": "漏", "reading": "ロウ", "type": "音読み"}, {"char": "洩", "reading": "エイ", "type": "音読み"}]}]},
+    {"sentence": "違法操業の不審船を洋上で拿捕する。", "words": [{"word": "拿捕", "reading": "ダホ", "kanjis": [{"char": "拿", "reading": "ダ", "type": "音読み"}, {"char": "捕", "reading": "ホ", "type": "音読み"}]}]},
+    {"sentence": "戦乱に乗じて財宝を掠奪する。", "words": [{"word": "掠奪", "reading": "リャクダツ", "kanjis": [{"char": "掠", "reading": "リャク", "type": "音読み"}, {"char": "奪", "reading": "ダツ", "type": "音読み"}]}]},
+    {"sentence": "惨溺たる敗北を喫して出直す。", "words": [{"word": "惨溺", "reading": "サンタン", "kanjis": [{"char": "惨", "reading": "サン", "type": "音読み"}, {"char": "溺", "reading": "タン", "type": "音読み"}]}]},
+    {"sentence": "渾身の力を込めて一撃を投じる。", "words": [{"word": "渾身", "reading": "コンシン", "kanjis": [{"char": "渾", "reading": "コン", "type": "音読み"}, {"char": "身", "reading": "シン", "type": "音読み"}]}]},
+    {"sentence": "傲岸不遜な態度で他人に接する。", "words": [{"word": "傲岸", "reading": "ゴウガン", "kanjis": [{"char": "傲", "reading": "ゴウ", "type": "音読み"}, {"char": "岸", "reading": "ガン", "type": "音読み"}]}]},
+    {"sentence": "現実の数値と理論値が大きく乖離する。", "words": [{"word": "乖離", "reading": "カイリ", "kanjis": [{"char": "乖", "reading": "カイ", "type": "音読み"}, {"char": "離", "reading": "リ", "type": "音読み"}]}]},
+    {"sentence": "不正行為を行った人物を厳しく糾弾する。", "words": [{"word": "糾弾", "reading": "キュウダン", "kanjis": [{"char": "糾", "reading": "キュウ", "type": "音読み"}, {"char": "弾", "reading": "ダン", "type": "音読み"}]}]},
+    {"sentence": "利害の衝突により両者の間で軋轢が生じる。", "words": [{"word": "軋轢", "reading": "アツレキ", "kanjis": [{"char": "軋", "reading": "アツ", "type": "音読み"}, {"char": "轢", "reading": "レキ", "type": "音読み"}]}]},
+    {"sentence": "主張の食い違いから決定的な齟齬をきたす。", "words": [{"word": "齟齬", "reading": "ソゴ", "kanjis": [{"char": "齟", "reading": "ソ", "type": "音読み"}, {"char": "齬", "reading": "ゴ", "type": "音読み"}]}]},
+    {"sentence": "不測の事態に直面して大きく狼狽する。", "words": [{"word": "狼狽", "reading": "ロウバイ", "kanjis": [{"char": "狼", "reading": "ロウ", "type": "音読み"}, {"char": "狽", "reading": "バイ", "type": "音読み"}]}]},
+    {"sentence": "裏から糸を引かれて傀儡政権を操る。", "words": [{"word": "傀儡", "reading": "カイライ", "kanjis": [{"char": "傀", "reading": "カイ", "type": "音読み"}, {"char": "儡", "reading": "ライ", "type": "音読み"}]}]},
+    {"sentence": "発言の意図を正確に忖度する。", "words": [{"word": "忖度", "reading": "ソンタク", "kanjis": [{"char": "忖", "reading": "ソン", "type": "音読み"}, {"char": "度", "reading": "タク", "type": "音読み"}]}]},
+    {"sentence": "契約内容に重大な瑕疵が見つかる。", "words": [{"word": "瑕疵", "reading": "カシ", "kanjis": [{"char": "瑕", "reading": "カ", "type": "音読み"}, {"char": "疵", "reading": "シ", "type": "音読み"}]}]},
+    {"sentence": "自然の圧倒的な猛威に畏怖の念を抱く。", "words": [{"word": "畏怖", "reading": "イフ", "kanjis": [{"char": "畏", "reading": "イ", "type": "音読み"}, {"char": "怖", "reading": "フ", "type": "音読み"}]}]},
+    {"sentence": "相手の言動に対して強い猜疑心を抱く。", "words": [{"word": "猜疑", "reading": "サイギ", "kanjis": [{"char": "猜", "reading": "サイ", "type": "音読み"}, {"char": "疑", "reading": "ギ", "type": "音読み"}]}]},
+    {"sentence": "他人の成功を羨んで嫉妬する。", "words": [{"word": "嫉妬", "reading": "シット", "kanjis": [{"char": "嫉", "reading": "シツ", "type": "音読み"}, {"char": "妬", "reading": "ト", "type": "音読み"}]}]},
+    {"sentence": "愚かな過ちを悔いて慚愧に耐えない。", "words": [{"word": "慚愧", "reading": "ザンキ", "kanjis": [{"char": "慚", "reading": "ザン", "type": "音読み"}, {"char": "愧", "reading": "キ", "type": "音読み"}]}]},
+    {"sentence": "非難を浴びて羞恥の色を隠せない。", "words": [{"word": "羞恥", "reading": "シュウチ", "kanjis": [{"char": "羞", "reading": "シュウ", "type": "音読み"}, {"char": "恥", "reading": "チ", "type": "音読み"}]}]},
+    {"sentence": "華やかな都の文化に強く憧憬を抱く。", "words": [{"word": "憧憬", "reading": "ショウケイ", "kanjis": [{"char": "憧", "reading": "ショウ", "type": "音読み"}, {"char": "憬", "reading": "ケイ", "type": "音読み"}]}]},
+    {"sentence": "晴れない晴天の下で深い憂鬱を感じる。", "words": [{"word": "憂鬱", "reading": "ユウウツ", "kanjis": [{"char": "憂", "reading": "ユウ", "type": "音読み"}, {"char": "鬱", "reading": "ウツ", "type": "音読み"}]}]},
+    {"sentence": "連日の過労から強い倦怠感を覚える。", "words": [{"word": "倦怠", "reading": "ケンタイ", "kanjis": [{"char": "倦", "reading": "ケン", "type": "音読み"}, {"char": "怠", "reading": "タイ", "type": "音読み"}]}]},
+    {"sentence": "理想と現実の狭間で葛藤が深まる。", "words": [{"word": "葛藤", "reading": "カットウ", "kanjis": [{"char": "葛", "reading": "カツ", "type": "音読み"}, {"char": "藤", "reading": "トウ", "type": "音読み"}]}]},
+    {"sentence": "複雑な思いに一人胸を痛めて煩悶する。", "words": [{"word": "煩悶", "reading": "ハンモン", "kanjis": [{"char": "煩", "reading": "ハン", "type": "音読み"}, {"char": "悶", "reading": "モン", "type": "音読み"}]}]},
+    {"sentence": "素晴らしい美酒に酔いしれて恍惚となる。", "words": [{"word": "恍惚", "reading": "コウコツ", "kanjis": [{"char": "恍", "reading": "コウ", "type": "音読み"}, {"char": "惚", "reading": "コツ", "type": "音読み"}]}]},
+    {"sentence": "世の不条理に対して怨嗟の声が上がる。", "words": [{"word": "怨嗟", "reading": "エンサ", "kanjis": [{"char": "怨", "reading": "エン", "type": "音読み"}, {"char": "嗟", "reading": "サ", "type": "音読み"}]}]},
+    {"sentence": "助命を求めて必死に懇願する。", "words": [{"word": "懇願", "reading": "コンガン", "kanjis": [{"char": "懇", "reading": "コン", "type": "音読み"}, {"char": "願", "reading": "ガン", "type": "音読み"}]}]},
+    {"sentence": "危険な事態との接触を忌避する。", "words": [{"word": "忌避", "reading": "キヒ", "kanjis": [{"char": "忌", "reading": "キ", "type": "音読み"}, {"char": "避", "reading": "ヒ", "type": "音読み"}]}]},
+    {"sentence": "かつての権勢を失って急速に凋落する。", "words": [{"word": "凋落", "reading": "チョウラク", "kanjis": [{"char": "凋", "reading": "チョウ", "type": "音読み"}, {"char": "落", "reading": "ラク", "type": "音読み"}]}]},
+    {"sentence": "目標に向かって前寄り一筋に邁進する。", "words": [{"word": "邁進", "reading": "マイシン", "kanjis": [{"char": "邁", "reading": "マイ", "type": "音読み"}, {"char": "進", "reading": "シン", "type": "音読み"}]}]},
+    {"sentence": "横暴な悪党が各地で跋扈する。", "words": [{"word": "跋扈", "reading": "バッコ", "kanjis": [{"char": "跋", "reading": "バツ", "type": "音読み"}, {"char": "扈", "reading": "コ", "type": "音読み"}]}]},
+    {"sentence": "三強の勢力が互いに拮抗して鼎立する。", "words": [{"word": "鼎立", "reading": "テイリツ", "kanjis": [{"char": "鼎", "reading": "テイ", "type": "音読み"}, {"char": "立", "reading": "リツ", "type": "音読み"}]}]},
+    {"sentence": "若くして才能を発揮しながら夭折する。", "words": [{"word": "夭折", "reading": "ヨウセツ", "kanjis": [{"char": "夭", "reading": "ヨウ", "type": "音読み"}, {"char": "折", "reading": "セツ", "type": "音読み"}]}]},
+    {"sentence": "旅先で奇跡的な素晴らしい邂逅を果たす。", "words": [{"word": "邂逅", "reading": "カイコウ", "kanjis": [{"char": "邂", "reading": "カイ", "type": "音読み"}, {"char": "逅", "reading": "コウ", "type": "音読み"}]}]},
+    {"sentence": "悲報に接して声も惜しまず慟哭する。", "words": [{"word": "慟哭", "reading": "ドウコク", "kanjis": [{"char": "慟", "reading": "ドウ", "type": "音読み"}, {"char": "哭", "reading": "コク", "type": "音読み"}]}]},
+    {"sentence": "長年の運動で喉が渇く。", "words": [{"word": "喉", "reading": "のど", "kanjis": [{"char": "喉", "reading": "ノド", "type": "訓読み"}]}, {"word": "渇く", "reading": "かわく", "kanjis": [{"char": "渇", "reading": "カワ", "type": "訓読み"}]}]},
+    {"sentence": "春の訪れとともに蕾が膨らむ。", "words": [{"word": "蕾", "reading": "つぼみ", "kanjis": [{"char": "蕾", "reading": "ツボミ", "type": "訓読み"}]}]},
+    {"sentence": "ひそかに耳元で囁く。", "words": [{"word": "囁く", "reading": "ささやく", "kanjis": [{"char": "囁", "reading": "ササヤ", "type": "訓読み"}]}]},
+    {"sentence": "身の毛もよだつ恐ろしい光景。", "words": [{"word": "恐ろしい", "reading": "おそろしい", "kanjis": [{"char": "恐", "reading": "オソロ", "type": "訓読み"}]}]},
+    {"sentence": "静かなたたずまいのまま佇む。", "words": [{"word": "佇む", "reading": "たたずむ", "kanjis": [{"char": "佇", "reading": "タタズ", "type": "訓読み"}]}]},
+    {"sentence": "言葉の真意に深く頷く。", "words": [{"word": "頷く", "reading": "うなずく", "kanjis": [{"char": "頷", "reading": "ウナズ", "type": "訓読み"}]}]},
+    {"sentence": "澄み切った空を仰ぎ見る。", "words": [{"word": "仰ぎ見る", "reading": "あおぎみる", "kanjis": [{"char": "仰", "reading": "アオ", "type": "訓読み"}]}]},
+    {"sentence": "激しい怒りに身体が震える。", "words": [{"word": "震える", "reading": "ふるえる", "kanjis": [{"char": "震", "reading": "フル", "type": "訓読み"}]}]},
+    {"sentence": "困難を乗り越えて前に進む。", "words": [{"word": "越える", "reading": "こえる", "kanjis": [{"char": "越", "reading": "コ", "type": "訓読み"}]}]},
+    {"sentence": "真心を込めて手紙を認める。", "words": [{"word": "認める", "reading": "したためる", "kanjis": [{"char": "認", "reading": "シタタ", "type": "訓読み"}]}]},
+    {"sentence": "広い海原を馬に跨って進む。", "words": [{"word": "跨る", "reading": "またがる", "kanjis": [{"char": "跨", "reading": "マタガ", "type": "訓読み"}]}]},
+    {"sentence": "弱い立場の仲間を庇う。", "words": [{"word": "庇う", "reading": "かばう", "kanjis": [{"char": "庇", "reading": "カバ", "type": "訓読み"}]}]},
+    {"sentence": "古い伝統が再び現代に蘇る。", "words": [{"word": "蘇る", "reading": "よみがえる", "kanjis": [{"char": "蘇", "reading": "ヨミガエ", "type": "訓読み"}]}]},
+    {"sentence": "悪事に手を染めるよう唆す。", "words": [{"word": "唆す", "reading": "そそのかす", "kanjis": [{"char": "唆", "reading": "ソソノカ", "type": "訓読み"}]}]},
+    {"sentence": "独り言を静かに呟く。", "words": [{"word": "呟く", "reading": "つぶやく", "kanjis": [{"char": "呟", "reading": "ツブヤ", "type": "訓読み"}]}]},
+    {"sentence": "頭の中に名案がひらりと閃く。", "words": [{"word": "閃く", "reading": "ひらめく", "kanjis": [{"char": "閃", "reading": "ヒラメ", "type": "訓読み"}]}]},
+    {"sentence": "雲を突くように高い山が聳える。", "words": [{"word": "聳える", "reading": "そびえる", "kanjis": [{"char": "聳", "reading": "ソビエ", "type": "訓読み"}]}]},
+    {"sentence": "遠くの景色が夕霞で霞む。", "words": [{"word": "霞む", "reading": "かすむ", "kanjis": [{"char": "霞", "reading": "カス", "type": "訓読み"}]}]},
+    {"sentence": "地の底で小さな虫が蠢く。", "words": [{"word": "蠢く", "reading": "うごめく", "kanjis": [{"char": "蠢", "reading": "ウゴミ", "type": "訓読み"}]}]},
+    {"sentence": "見知らぬ異国の街を一人彷徨う。", "words": [{"word": "彷徨う", "reading": "さまよう", "kanjis": [{"char": "彷", "reading": "サマヨ", "type": "訓読み"}]}]},
+    {"sentence": "相手の失敗を冷たく嘲る。", "words": [{"word": "嘲る", "reading": "あざける", "kanjis": [{"char": "嘲", "reading": "アザケ", "type": "訓読み"}]}]},
+    {"sentence": "実力のない相手だと侮る。", "words": [{"word": "侮る", "reading": "あなどる", "kanjis": [{"char": "侮", "reading": "アナド", "type": "訓読み"}]}]},
+    {"sentence": "立場が弱い者を軽蔑して蔑む。", "words": [{"word": "蔑む", "reading": "さげすむ", "kanjis": [{"char": "蔑", "reading": "サゲス", "type": "訓読み"}]}]},
+    {"sentence": "密かに悪巧みを企む。", "words": [{"word": "企む", "reading": "たくらむ", "kanjis": [{"char": "企", "reading": "タクラ", "type": "訓読み"}]}]},
+    {"sentence": "過去の固定観念に囚われる。", "words": [{"word": "囚われる", "reading": "とらわれる", "kanjis": [{"char": "囚", "reading": "トラワレ", "type": "訓読み"}]}]},
+    {"sentence": "情に流されて絆される。", "words": [{"word": "絆される", "reading": "ほだされる", "kanjis": [{"char": "絆", "reading": "ホダサレ", "type": "訓読み"}]}]},
+    {"sentence": "芸事の嗜みとして茶道を嗜む。", "words": [{"word": "嗜む", "reading": "たしなむ", "kanjis": [{"char": "嗜", "reading": "タシナ", "type": "訓読み"}]}]},
+    {"sentence": "恵みの雨が降り田畑が潤う。", "words": [{"word": "潤う", "reading": "うるおう", "kanjis": [{"char": "潤", "reading": "ウルオ", "type": "訓読み"}]}]},
+    {"sentence": "興奮した相手を静かに宥める。", "words": [{"word": "宥める", "reading": "なだめる", "kanjis": [{"char": "宥", "reading": "ナダメ", "type": "訓読み"}]}]},
+    {"sentence": "美しい立ち振る舞いが淑やかだ。", "words": [{"word": "淑やか", "reading": "しとやか", "kanjis": [{"char": "淑", "reading": "シトヤ", "type": "訓読み"}]}]},
+    {"sentence": "手入れの行き届いた麗しい庭園。", "words": [{"word": "麗しい", "reading": "うるわしい", "kanjis": [{"char": "麗", "reading": "ウルワシ", "type": "訓読み"}]}]},
+    {"sentence": "強烈な光が放たれて眩しい。", "words": [{"word": "眩しい", "reading": "まぶしい", "kanjis": [{"char": "眩", "reading": "マブシ", "type": "訓読み"}]}]},
+    {"sentence": "著しい成果を上げて賞賛される。", "words": [{"word": "著しい", "reading": "いちじるしい", "kanjis": [{"char": "著", "reading": "イチジルシ", "type": "訓読み"}]}]},
+    {"sentence": "芳しい花の香りが漂う。", "words": [{"word": "芳しい", "reading": "かんばしい", "kanjis": [{"char": "芳", "reading": "カンバシ", "type": "訓読み"}]}]},
+    {"sentence": "浅ましい欲望に目が眩む。", "words": [{"word": "浅ましい", "reading": "あさましい", "kanjis": [{"char": "浅", "reading": "アサマシ", "type": "訓読み"}]}]},
+    {"sentence": "鍛え抜かれた逞しい身体。", "words": [{"word": "逞しい", "reading": "たくましい", "kanjis": [{"char": "逞", "reading": "タクマシ", "type": "訓読み"}]}]},
+    {"sentence": "経験豊富で頼もしいリーダー。", "words": [{"word": "頼もしい", "reading": "たのもしい", "kanjis": [{"char": "頼", "reading": "タノモシ", "type": "訓読み"}]}]},
+    {"sentence": "複雑で煩わしい手続きを省く。", "words": [{"word": "煩わしい", "reading": "わずらわしい", "kanjis": [{"char": "煩", "reading": "ワズラワシ", "type": "訓読み"}]}]},
+    {"sentence": "梅雨の季節で鬱陶しい天気が続く。", "words": [{"word": "鬱陶しい", "reading": "うっとうしい", "kanjis": [{"char": "鬱", "reading": "ウッ", "type": "訓読み"}, {"char": "陶しい", "reading": "とうしい", "kanjis": [{"char": "陶", "reading": "トウシ", "type": "訓読み"}]}]}]},
+    {"sentence": "被害の大きさが甚だしい。", "words": [{"word": "甚だしい", "reading": "はなはだしい", "kanjis": [{"char": "甚", "reading": "ハナハダシ", "type": "訓読み"}]}]},
+    {"sentence": "朝日に照らされて眩い光を放つ。", "words": [{"word": "眩い", "reading": "まばゆい", "kanjis": [{"char": "眩", "reading": "マバユ", "type": "訓読み"}]}]},
+    {"sentence": "夢のように儚い人生のひととき。", "words": [{"word": "儚い", "reading": "はかない", "kanjis": [{"char": "儚", "reading": "ハカナ", "type": "訓読み"}]}]},
+    {"sentence": "いくら悔やんでも虚しいだけだ。", "words": [{"word": "虚しい", "reading": "むなしい", "kanjis": [{"char": "虚", "reading": "ムナシ", "type": "訓読み"}]}]},
+    {"sentence": "拙い文章で感謝の意を伝える。", "words": [{"word": "拙い", "reading": "つたない", "kanjis": [{"char": "拙", "reading": "ツタナ", "type": "訓読み"}]}]},
+    {"sentence": "ガラスのように脆い感情。", "words": [{"word": "脆い", "reading": "もろい", "kanjis": [{"char": "脆", "reading": "モロ", "type": "訓読み"}]}]},
+    {"sentence": "酷い仕打ちを受けて立ち直れない。", "words": [{"word": "酷い", "reading": "ひどい", "kanjis": [{"char": "酷", "reading": "ヒド", "type": "訓読み"}]}]},
+    {"sentence": "見分けるのも恐ろしい惨い現場。", "words": [{"word": "惨い", "reading": "むごい", "kanjis": [{"char": "惨", "reading": "ムゴ", "type": "訓読み"}]}]},
+    {"sentence": "怠惰で愚かな行動を反省する。", "words": [{"word": "愚か", "reading": "おろか", "kanjis": [{"char": "愚", "reading": "オロカ", "type": "訓読み"}]}]},
+    {"sentence": "学業を疎かにして後悔する。", "words": [{"word": "疎か", "reading": "おろそか", "kanjis": [{"char": "疎", "reading": "オロソカ", "type": "訓読み"}]}]},
+    {"sentence": "グラスから溢れるほど水を注ぐ。", "words": [{"word": "溢れる", "reading": "あふれる", "kanjis": [{"char": "溢", "reading": "アフニ", "type": "訓読み"}]}]},
+    {"sentence": "服が濡れるのを構わず進む。", "words": [{"word": "濡れる", "reading": "ぬれる", "kanjis": [{"char": "濡", "reading": "ヌレ", "type": "訓読み"}]}]},
+    {"sentence": "植物の蕾が春を迎えて綻ぶ。", "words": [{"word": "綻ぶ", "reading": "ほころぶ", "kanjis": [{"char": "綻", "reading": "ホコロビ", "type": "訓読み"}]}]},
+    {"sentence": "想定外の展開に呆れる。", "words": [{"word": "呆れる", "reading": "あきれる", "kanjis": [{"char": "呆", "reading": "アキレ", "type": "訓読み"}]}]},
+    {"sentence": "暗闇の不気味な音に怯える。", "words": [{"word": "怯える", "reading": "おびえる", "kanjis": [{"char": "怯", "reading": "オビエ", "type": "訓読み"}]}]},
+    {"sentence": "病魔が身体を静かに蝕む。", "words": [{"word": "蝕む", "reading": "むしばむ", "kanjis": [{"char": "蝕", "reading": "ムシバ", "type": "訓読み"}]}]},
+    {"sentence": "長年の傷がすっかり癒える。", "words": [{"word": "癒える", "reading": "いえる", "kanjis": [{"char": "癒", "reading": "イエ", "type": "訓読み"}]}]},
+    {"sentence": "権力者に取り入るため諂う。", "words": [{"word": "諂う", "reading": "へつらう", "kanjis": [{"char": "諂", "reading": "ヘツラ", "type": "訓読み"}]}]},
+    {"sentence": "上司に媚びるような態度は取らない。", "words": [{"word": "媚びる", "reading": "こびる", "kanjis": [{"char": "媚", "reading": "コビ", "type": "訓読み"}]}]},
+    {"sentence": "巧みな言葉で敵を欺く。", "words": [{"word": "欺く", "reading": "あざむく", "kanjis": [{"char": "欺", "reading": "アザム", "type": "訓読み"}]}]},
+    {"sentence": "人を騙すような悪事は許されない。", "words": [{"word": "騙す", "reading": "だます", "kanjis": [{"char": "騙", "reading": "ダマ", "type": "訓読み"}]}]},
+    {"sentence": "進行を不当に阻む邪魔者。", "words": [{"word": "阻む", "reading": "はばむ", "kanjis": [{"char": "阻", "reading": "ハバ", "type": "訓読み"}]}]},
+    {"sentence": "度重なる試練に挫けることなく進む。", "words": [{"word": "挫ける", "reading": "くじける", "kanjis": [{"char": "挫", "reading": "クジケ", "type": "訓読み"}]}]},
+    {"sentence": "学問の深遠な世界に没頭して耽る。", "words": [{"word": "耽る", "reading": "ふける", "kanjis": [{"char": "耽", "reading": "フケ", "type": "訓読み"}]}]}
+  ],
+  "2": [
+    {"sentence": "社会の秩序を維持する。", "words": [{"word": "秩序", "reading": "チツジョ", "kanjis": [{"char": "秩", "reading": "チツ", "type": "音読み"}, {"char": "序", "reading": "ジョ", "type": "音読み"}]}, {"word": "維持", "reading": "イジ", "kanjis": [{"char": "維", "reading": "イ", "type": "音読み"}, {"char": "持", "reading": "ジ", "type": "音読み"}]}]},
+    {"sentence": "健康を保持するために毎朝運動する。", "words": [{"word": "健康", "reading": "ケンコウ", "kanjis": [{"char": "健", "reading": "ケン", "type": "音読み"}, {"char": "康", "reading": "コウ", "type": "音読み"}]}, {"word": "保持", "reading": "ホジ", "kanjis": [{"char": "保", "reading": "ホ", "type": "音読み"}, {"char": "持", "reading": "ジ", "type": "音読み"}]}]},
+    {"sentence": "専門的な高度の知識を修得する。", "words": [{"word": "専門", "reading": "センモン", "kanjis": [{"char": "専", "reading": "セン", "type": "音読み"}, {"char": "門", "reading": "モン", "type": "音読み"}]}, {"word": "修得", "reading": "シュウトク", "kanjis": [{"char": "修", "reading": "シュウ", "type": "音読み"}, {"char": "得", "reading": "トク", "type": "音読み"}]}]},
+    {"sentence": "定期的な点検を確実に行う。", "words": [{"word": "定期", "reading": "テイキ", "kanjis": [{"char": "定", "reading": "テイ", "type": "音読み"}, {"char": "期", "reading": "キ", "type": "音読み"}]}, {"word": "確実", "reading": "カクジツ", "kanjis": [{"char": "確", "reading": "カク", "type": "音読み"}, {"char": "実", "reading": "ジツ", "type": "音読み"}]}]},
+    {"sentence": "復習を徹底して知識を定着させる。", "words": [{"word": "復習", "reading": "フクシュウ", "kanjis": [{"char": "復", "reading": "フク", "type": "音読み"}, {"char": "習", "reading": "シュウ", "type": "音読み"}]}, {"word": "徹底", "reading": "テッテイ", "kanjis": [{"char": "徹", "reading": "テツ", "type": "音読み"}, {"char": "底", "reading": "テイ", "type": "音読み"}]}]},
+    {"sentence": "未知の分野へ挑戦する強い気持ち。", "words": [{"word": "未知", "reading": "ミチ", "kanjis": [{"char": "未", "reading": "ミ", "type": "音読み"}, {"char": "知", "reading": "チ", "type": "音読み"}]}, {"word": "挑戦", "reading": "チョウセン", "kanjis": [{"char": "挑", "reading": "チョウ", "type": "音読み"}, {"char": "戦", "reading": "セン", "type": "音読み"}]}]},
+    {"sentence": "正確な情報を速やかに共有する。", "words": [{"word": "正確", "reading": "セイカク", "kanjis": [{"char": "正", "reading": "セイ", "type": "音読み"}, {"char": "確", "reading": "カク", "type": "音読み"}]}, {"word": "情報", "reading": "ジョウホウ", "kanjis": [{"char": "情", "reading": "ジョウ", "type": "音読み"}, {"char": "報", "reading": "ホウ", "type": "音読み"}]}]},
+    {"sentence": "伝統的な文化を継承する。", "words": [{"word": "継承", "reading": "ケイショウ", "kanjis": [{"char": "継", "reading": "ケイ", "type": "音読み"}, {"char": "承", "reading": "ショウ", "type": "音読み"}]}]},
+    {"sentence": "誠意を持って相手に対処する。", "words": [{"word": "誠意", "reading": "セイイ", "kanjis": [{"char": "誠", "reading": "セイ", "type": "音読み"}, {"char": "意", "reading": "イ", "type": "音読み"}]}]},
+    {"sentence": "厳しい練習に耐えて優勝を目指す。", "words": [{"word": "練習", "reading": "レンシュウ", "kanjis": [{"char": "練", "reading": "レン", "type": "音読み"}, {"char": "習", "reading": "シュウ", "type": "音読み"}]}, {"word": "優勝", "reading": "ユウショウ", "kanjis": [{"char": "優", "reading": "ユウ", "type": "音読み"}, {"char": "勝", "reading": "ショウ", "type": "音読み"}]}]},
+    {"sentence": "自由な発想で豊かな創造力を養う。", "words": [{"word": "自由", "reading": "ジユウ", "kanjis": [{"char": "由", "reading": "ユウ", "type": "音読み"}]}, {"word": "創造", "reading": "ソウゾウ", "kanjis": [{"char": "創", "reading": "ソウ", "type": "音読み"}, {"char": "造", "reading": "ゾウ", "type": "音読み"}]}]},
+    {"sentence": "責任を果たして周りの信頼を得る。", "words": [{"word": "責任", "reading": "セキニン", "kanjis": [{"char": "責", "reading": "セキ", "type": "音読み"}, {"char": "任", "reading": "ニン", "type": "音読み"}]}, {"word": "信頼", "reading": "シンライ", "kanjis": [{"char": "信", "reading": "シン", "type": "音読み"}, {"char": "頼", "reading": "ライ", "type": "音読み"}]}]},
+    {"sentence": "組織の改革を迅速に推進する。", "words": [{"word": "改革", "reading": "カイカク", "kanjis": [{"char": "改", "reading": "カイ", "type": "音読み"}, {"char": "革", "reading": "カク", "type": "音読み"}]}, {"word": "推進", "reading": "スイシン", "kanjis": [{"char": "推", "reading": "スイ", "type": "音読み"}, {"char": "進", "reading": "シン", "type": "音読み"}]}]},
+    {"sentence": "館内を詳しく案内する。", "words": [{"word": "案内", "reading": "アンナイ", "kanjis": [{"char": "案", "reading": "アン", "type": "音読み"}, {"char": "内", "reading": "ナイ", "type": "音読み"}]}]},
+    {"sentence": "会議で自分の意見を述べる。", "words": [{"word": "意見", "reading": "イケン", "kanjis": [{"char": "意", "reading": "イ", "type": "音読み"}, {"char": "見", "reading": "ケン", "type": "音読み"}]}]},
+    {"sentence": "防災に対する意識を高める。", "words": [{"word": "意識", "reading": "イシキ", "kanjis": [{"char": "意", "reading": "イ", "type": "音読み"}, {"char": "識", "reading": "シキ", "type": "音読み"}]}]},
+    {"sentence": "高度な医療技術を提供する。", "words": [{"word": "医療", "reading": "イリョウ", "kanjis": [{"char": "医", "reading": "イ", "type": "音読み"}, {"char": "療", "reading": "リョウ", "type": "音読み"}]}]},
+    {"sentence": "観客に強い印象を与える。", "words": [{"word": "印象", "reading": "インショウ", "kanjis": [{"char": "印", "reading": "イン", "type": "音読み"}, {"char": "象", "reading": "ショウ", "type": "音読み"}]}]},
+    {"sentence": "適度な運動を毎日続ける。", "words": [{"word": "運動", "reading": "ウンドウ", "kanjis": [{"char": "運", "reading": "ウン", "type": "音読み"}, {"char": "動", "reading": "ドウ", "type": "音読み"}]}]},
+    {"sentence": "社会に多大な影響を及ぼす。", "words": [{"word": "影響", "reading": "エイキョウ", "kanjis": [{"char": "影", "reading": "エイ", "type": "音読み"}, {"char": "響", "reading": "キョウ", "type": "音読み"}]}]},
+    {"sentence": "新規の営業を開始する。", "words": [{"word": "営業", "reading": "エイギョウ", "kanjis": [{"char": "営", "reading": "エイ", "type": "音読み"}, {"char": "業", "reading": "ギョウ", "type": "音読み"}]}]},
+    {"sentence": "人工衛星を軌道に乗せる。", "words": [{"word": "衛星", "reading": "エイセイ", "kanjis": [{"char": "衛", "reading": "エイ", "type": "音読み"}, {"char": "星", "reading": "セイ", "type": "音読み"}]}]},
+    {"sentence": "見事な演奏に大きな拍手が送られる。", "words": [{"word": "演奏", "reading": "エンソウ", "kanjis": [{"char": "演", "reading": "エン", "type": "音読み"}, {"char": "奏", "reading": "ソウ", "type": "音読み"}]}]},
+    {"sentence": "被災地に十分な援助を行う。", "words": [{"word": "援助", "reading": "エンジョ", "kanjis": [{"char": "援", "reading": "エン", "type": "音読み"}, {"char": "助", "reading": "ジョ", "type": "音読み"}]}]},
+    {"sentence": "悪天候のため行事を延期する。", "words": [{"word": "延期", "reading": "エンキ", "kanjis": [{"char": "延", "reading": "エン", "type": "音読み"}, {"char": "期", "reading": "キ", "type": "音読み"}]}]},
+    {"sentence": "劇場で本格的な演劇を鑑賞する。", "words": [{"word": "演劇", "reading": "エンゲキ", "kanjis": [{"char": "演", "reading": "エン", "type": "音読み"}, {"char": "劇", "reading": "ゲキ", "type": "音読み"}]}]},
+    {"sentence": "熱心に地元のチームを応援する。", "words": [{"word": "応援", "reading": "オウエン", "kanjis": [{"char": "応", "reading": "オウ", "type": "音読み"}, {"char": "援", "reading": "エン", "type": "音読み"}]}]},
+    {"sentence": "理論を実践に応用する。", "words": [{"word": "応用", "reading": "オウヨウ", "kanjis": [{"char": "応", "reading": "オウ", "type": "音読み"}, {"char": "用", "reading": "ヨウ", "type": "音読み"}]}]},
+    {"sentence": "定期券で往復する。", "words": [{"word": "往復", "reading": "オウフク", "kanjis": [{"char": "往", "reading": "オウ", "type": "音読み"}, {"char": "復", "reading": "フク", "type": "音読み"}]}]},
+    {"sentence": "プロジェクトの目的を明確化する。", "words": [{"word": "目的", "reading": "モクテキ", "kanjis": [{"char": "目", "reading": "モク", "type": "音読み"}, {"char": "的", "reading": "テキ", "type": "音読み"}]}]},
+    {"sentence": "休暇を利用して海外へ出発する。", "words": [{"word": "海外", "reading": "カイガイ", "kanjis": [{"char": "海", "reading": "カイ", "type": "音読み"}, {"char": "外", "reading": "ガイ", "type": "音読み"}]}]},
+    {"sentence": "重要事項について会議で議論する。", "words": [{"word": "会議", "reading": "カイギ", "kanjis": [{"char": "会", "reading": "カイ", "type": "音読み"}, {"char": "議", "reading": "ギ", "type": "音読み"}]}]},
+    {"sentence": "双方の対立を平和的に解決する。", "words": [{"word": "解決", "reading": "カイケツ", "kanjis": [{"char": "解", "reading": "カイ", "type": "音読み"}, {"char": "決", "reading": "ケツ", "type": "音読み"}]}]},
+    {"sentence": "大会が無事に終了して解散する。", "words": [{"word": "解散", "reading": "カイサン", "kanjis": [{"char": "解", "reading": "カイ", "type": "音読み"}, {"char": "散", "reading": "サン", "type": "音読み"}]}]},
+    {"sentence": "必要な経費を正確に計算する。", "words": [{"word": "計算", "reading": "ケイサン", "kanjis": [{"char": "計", "reading": "ケイ", "type": "音読み"}, {"char": "算", "reading": "サン", "type": "音読み"}]}]},
+    {"sentence": "危険区域への立ち入りを警告する。", "words": [{"word": "警告", "reading": "ケイコク", "kanjis": [{"char": "警", "reading": "ケイ", "type": "音読み"}, {"char": "告", "reading": "コク", "type": "音読み"}]}]},
+    {"sentence": "事件の発生を受けて警察に通報する。", "words": [{"word": "警察", "reading": "ケイサツ", "kanjis": [{"char": "警", "reading": "ケイ", "type": "音読み"}, {"char": "察", "reading": "サツ", "type": "音読み"}]}]},
+    {"sentence": "美術館で高い芸術作品を堪能する。", "words": [{"word": "芸術", "reading": "ゲイジュツ", "kanjis": [{"char": "芸", "reading": "ゲイ", "type": "音読み"}, {"char": "術", "reading": "ジュツ", "type": "音読み"}]}]},
+    {"sentence": "条件を確認した上で正式に契約を結ぶ。", "words": [{"word": "契約", "reading": "ケイヤク", "kanjis": [{"char": "契", "reading": "ケイ", "type": "音読み"}, {"char": "約", "reading": "ヤク", "type": "音読み"}]}]},
+    {"sentence": "体調不良のため本日の会議を欠席する。", "words": [{"word": "欠席", "reading": "ケッセキ", "kanjis": [{"char": "欠", "reading": "ケツ", "type": "音読み"}, {"char": "席", "reading": "セキ", "type": "音読み"}]}]},
+    {"sentence": "協議の末に今後の基本方針を決定する。", "words": [{"word": "決定", "reading": "ケッテイ", "kanjis": [{"char": "決", "reading": "ケツ", "type": "音読み"}, {"char": "定", "reading": "テイ", "type": "音読み"}]}]},
+    {"sentence": "分子同士が強固に結合する。", "words": [{"word": "結合", "reading": "ケツゴウ", "kanjis": [{"char": "結", "reading": "ケツ", "type": "音読み"}, {"char": "合", "reading": "ゴウ", "type": "音読み"}]}]},
+    {"sentence": "実験データから妥当な結論を導き出す。", "words": [{"word": "結論", "reading": "ケツロン", "kanjis": [{"char": "結", "reading": "ケツ", "type": "音読み"}, {"char": "論", "reading": "ロン", "type": "音読み"}]}]},
+    {"sentence": "自分の体力の限界に挑む。", "words": [{"word": "限界", "reading": "ゲンカイ", "kanjis": [{"char": "限", "reading": "ゲン", "type": "音読み"}, {"char": "界", "reading": "カイ", "type": "音読み"}]}]},
+    {"sentence": "大学の施設で新薬の研究を進める。", "words": [{"word": "研究", "reading": "ケンキュウ", "kanjis": [{"char": "研", "reading": "ケン", "type": "音読み"}, {"char": "究", "reading": "キュウ", "type": "音読み"}]}]},
+    {"sentence": "都市の再開発に伴い新しいビルを建設する。", "words": [{"word": "建設", "reading": "ケンセツ", "kanjis": [{"char": "建", "reading": "ケン", "type": "音読み"}, {"char": "設", "reading": "セツ", "type": "音読み"}]}]},
+    {"sentence": "日本の伝統的な建築様式を学ぶ。", "words": [{"word": "建築", "reading": "ケンチク", "kanjis": [{"char": "建", "reading": "ケン", "type": "音読み"}, {"char": "築", "reading": "チク", "type": "音読み"}]}]},
+    {"sentence": "駅の周辺は非常に交通の便が良い。", "words": [{"word": "交通", "reading": "コウツウ", "kanjis": [{"char": "交", "reading": "コウ", "type": "音読み"}, {"char": "通", "reading": "ツウ", "type": "音読み"}]}]},
+    {"sentence": "対立する相手と根気強く条件を交渉する。", "words": [{"word": "交渉", "reading": "コウショウ", "kanjis": [{"char": "交", "reading": "コウ", "type": "音読み"}, {"char": "渉", "reading": "ショウ", "type": "音読み"}]}]},
+    {"sentence": "最新設備を備えた工場で精密部品を生産する。", "words": [{"word": "工場", "reading": "コウジョウ", "kanjis": [{"char": "工", "reading": "コウ", "type": "音読み"}, {"char": "場", "reading": "ジョウ", "type": "音読み"}]}]},
+    {"sentence": "歴史的建造物の複雑な構造を詳細に調べる。", "words": [{"word": "構造", "reading": "コウゾウ", "kanjis": [{"char": "構", "reading": "コウ", "type": "音読み"}, {"char": "造", "reading": "ゾウ", "type": "音読み"}]}]},
+    {"sentence": "新たな皇帝が即位して新しい時代が始まる。", "words": [{"word": "皇帝", "reading": "コウテイ", "kanjis": [{"char": "皇", "reading": "コウ", "type": "音読み"}, {"char": "帝", "reading": "テイ", "type": "音読み"}]}]},
+    {"sentence": "専門機関で高等な技術と理論を深く身につける。", "words": [{"word": "高等", "reading": "コウトウ", "kanjis": [{"char": "高", "reading": "コウ", "type": "音読み"}, {"char": "等", "reading": "トウ", "type": "音読み"}]}]},
+    {"sentence": "緊急時には安全を第一に考えて迅速に行動する。", "words": [{"word": "行動", "reading": "コウドウ", "kanjis": [{"char": "行", "reading": "コウ", "type": "音読み"}, {"char": "動", "reading": "ドウ", "type": "音読み"}]}]},
+    {"sentence": "各国の代表が一堂に会する国際会議に参加する。", "words": [{"word": "国際", "reading": "コクサイ", "kanjis": [{"char": "国", "reading": "コク", "type": "音読み"}, {"char": "際", "reading": "サイ", "type": "音読み"}]}]},
+    {"sentence": "不屈の精神で数々の試練を克服する。", "words": [{"word": "克服", "reading": "コクフク", "kanjis": [{"char": "克", "reading": "コク", "type": "音読み"}, {"char": "服", "reading": "フク", "type": "音読み"}]}]},
+    {"sentence": "突然の機械の故障により作業が一時中断する。", "words": [{"word": "故障", "reading": "コショウ", "kanjis": [{"char": "故", "reading": "コ", "type": "音読み"}, {"char": "障", "reading": "ショウ", "type": "音読み"}]}]},
+    {"sentence": "冷静な指示により現場の混乱を未然に防ぐ。", "words": [{"word": "混乱", "reading": "コンラン", "kanjis": [{"char": "混", "reading": "コン", "type": "音読み"}, {"char": "乱", "reading": "ラン", "type": "音読み"}]}]},
+    {"sentence": "地域社会の活性化を目指すイベントに参加する。", "words": [{"word": "参加", "reading": "サンカ", "kanjis": [{"char": "参", "reading": "サン", "type": "音読み"}, {"char": "加", "reading": "カ", "type": "音読み"}]}]},
+    {"sentence": "参加者の大多数が提出された新規提案に賛成する。", "words": [{"word": "賛成", "reading": "サンセイ", "kanjis": [{"char": "賛", "reading": "サン", "type": "音読み"}, {"char": "成", "reading": "セイ", "type": "音読み"}]}]},
+    {"sentence": "国の経済を支える基幹産業を大切に育てる。", "words": [{"word": "産業", "reading": "サンギョウ", "kanjis": [{"char": "産", "reading": "サン", "type": "音読み"}, {"char": "業", "reading": "ギョウ", "type": "音読み"}]}]},
+    {"sentence": "地球上に残された貴重な自然資源を正しく保護する。", "words": [{"word": "資源", "reading": "シゲン", "kanjis": [{"char": "資", "reading": "シ", "type": "音読み"}, {"char": "源", "reading": "ゲン", "type": "音読み"}]}]},
+    {"sentence": "警察が総力を挙げて複雑な事件の真相を解明する。", "words": [{"word": "事件", "reading": "ジケン", "kanjis": [{"char": "事", "reading": "ジ", "type": "音読み"}, {"char": "件", "reading": "ケン", "type": "音読み"}]}]},
+    {"sentence": "理科の実験を通して科学的思考力を養う。", "words": [{"word": "実験", "reading": "ジッケン", "kanjis": [{"char": "実", "reading": "ジツ", "type": "音読み"}, {"char": "験", "reading": "ケン", "type": "音読み"}]}]},
+    {"sentence": "綿密に立てた計画を予定通り速やかに実行する。", "words": [{"word": "実行", "reading": "ジッコウ", "kanjis": [{"char": "実", "reading": "ジツ", "type": "音読み"}, {"char": "行", "reading": "コウ", "type": "音読み"}]}]},
+    {"sentence": "あらかじめ決められた席を指定して着席する。", "words": [{"word": "指定", "reading": "シテイ", "kanjis": [{"char": "指", "reading": "シ", "type": "音読み"}, {"char": "定", "reading": "テイ", "type": "音読み"}]}]},
+    {"sentence": "経験豊かな指導員が後輩の指導にあたる。", "words": [{"word": "指導", "reading": "シドウ", "kanjis": [{"char": "指", "reading": "シ", "type": "音読み"}, {"char": "導", "reading": "ドウ", "type": "音読み"}]}]},
+    {"sentence": "人が近づくと自動でドアが開く仕組み。", "words": [{"word": "自動", "reading": "ジドウ", "kanjis": [{"char": "自", "reading": "ジ", "type": "音読み"}, {"char": "動", "reading": "ドウ", "type": "音読み"}]}]},
+    {"sentence": "強大な権力を利用して広大な地域を支配する。", "words": [{"word": "支配", "reading": "シハイ", "kanjis": [{"char": "支", "reading": "シ", "type": "音読み"}, {"char": "配", "reading": "ハイ", "type": "音読み"}]}]},
+    {"sentence": "新規事業の立ち上げに必要な資本を確保する。", "words": [{"word": "資本", "reading": "シホン", "kanjis": [{"char": "資", "reading": "シ", "type": "音読み"}, {"char": "本", "reading": "ホン", "type": "音読み"}]}]},
+    {"sentence": "安全対策を万全にして痛ましい死亡事故を防ぐ。", "words": [{"word": "死亡", "reading": "シボウ", "kanjis": [{"char": "死", "reading": "シ", "type": "音読み"}, {"char": "亡", "reading": "ボウ", "type": "音読み"}]}]},
+    {"sentence": "文化の交流を目的として姉妹都市の提携を結ぶ。", "words": [{"word": "姉妹", "reading": "シマイ", "kanjis": [{"char": "姉", "reading": "シ", "type": "音読み"}, {"char": "妹", "reading": "マイ", "type": "音読み"}]}]},
+    {"sentence": "感染症予防のためにアルコールで手指を消毒する。", "words": [{"word": "消毒", "reading": "ショウドク", "kanjis": [{"char": "消", "reading": "ショウ", "type": "音読み"}, {"char": "毒", "reading": "ドク", "type": "音読み"}]}]},
+    {"sentence": "担当部署の判断を経て提出された申請を承認する。", "words": [{"word": "承認", "reading": "ショウニン", "kanjis": [{"char": "承", "reading": "ショウ", "type": "音読み"}, {"char": "認", "reading": "ニン", "type": "音読み"}]}]},
+    {"sentence": "チーム一丸となって劇的な勝利を収める。", "words": [{"word": "勝利", "reading": "ショウリ", "kanjis": [{"char": "勝", "reading": "ショウ", "type": "音読み"}, {"char": "利", "reading": "リ", "type": "音読み"}]}]},
+    {"sentence": "集められた客観的な証拠によって無実を証明する。", "words": [{"word": "証明", "reading": "ショウメイ", "kanjis": [{"char": "証", "reading": "ショウ", "type": "音読み"}, {"char": "明", "reading": "メイ", "type": "音読み"}]}]},
+    {"sentence": "負傷者に対して現場で迅速かつ適切な処置を施す。", "words": [{"word": "処置", "reading": "ショチ", "kanjis": [{"char": "処", "reading": "ショ", "type": "音読み"}, {"char": "置", "reading": "チ", "type": "音読み"}]}]},
+    {"sentence": "社会のルールに公然と違反した者を厳しく処罰する。", "words": [{"word": "処罰", "reading": "ショバツ", "kanjis": [{"char": "処", "reading": "ショ", "type": "音読み"}, {"char": "罰", "reading": "バツ", "type": "音読み"}]}]},
+    {"sentence": "確認の完了を示して必要書類に丁寧に署名する。", "words": [{"word": "署名", "reading": "ショメイ", "kanjis": [{"char": "署", "reading": "ショ", "type": "音読み"}, {"char": "名", "reading": "メイ", "type": "音読み"}]}]},
+    {"sentence": "専門家が執筆した最新の医学書籍を購入する。", "words": [{"word": "書籍", "reading": "ショセキ", "kanjis": [{"char": "書", "reading": "ショ", "type": "音読み"}, {"char": "籍", "reading": "セキ", "type": "音読み"}]}]},
+    {"sentence": "大量のデータをプログラムで自動処理する。", "words": [{"word": "処理", "reading": "ショリ", "kanjis": [{"char": "処", "reading": "ショ", "type": "音読み"}, {"char": "理", "reading": "リ", "type": "音読み"}]}]},
+    {"sentence": "多角的な視点から物事を捉える思考力を鍛える。", "words": [{"word": "思考", "reading": "シコウ", "kanjis": [{"char": "思", "reading": "シ", "type": "音読み"}, {"char": "考", "reading": "コウ", "type": "音読み"}]}]},
+    {"sentence": "工事の進行状況を定期的にチェックする。", "words": [{"word": "進行", "reading": "シンコウ", "kanjis": [{"char": "進", "reading": "シン", "type": "音読み"}, {"char": "行", "reading": "コウ", "type": "音読み"}]}]},
+    {"sentence": "人々が熱心に自らの宗教を信仰する。", "words": [{"word": "信仰", "reading": "シンコウ", "kanjis": [{"char": "信", "reading": "シン", "type": "音読み"}, {"char": "仰", "reading": "コウ", "type": "音読み"}]}]},
+    {"sentence": "行政の支援により地元の観光産業の振興を図る。", "words": [{"word": "振興", "reading": "シンコウ", "kanjis": [{"char": "振", "reading": "シン", "type": "音読み"}, {"char": "興", "reading": "コウ", "type": "音読み"}]}]},
+    {"sentence": "提出された法案について慎重に審議を重ねる。", "words": [{"word": "審議", "reading": "シンギ", "kanjis": [{"char": "審", "reading": "シン", "type": "音読み"}, {"char": "議", "reading": "ギ", "type": "音読み"}]}]},
+    {"sentence": "地球規模で拡大する深刻な環境問題に直面する。", "words": [{"word": "深刻", "reading": "シンコク", "kanjis": [{"char": "深", "reading": "シン", "type": "音読み"}, {"char": "刻", "reading": "コク", "type": "音読み"}]}]},
+    {"sentence": "体調に不安があるため専門医の診察を受ける。", "words": [{"word": "診察", "reading": "シンサツ", "kanjis": [{"char": "診", "reading": "シン", "type": "音読み"}, {"char": "察", "reading": "サツ", "type": "音読み"}]}]},
+    {"sentence": "発生した障害に対して迅速かつ正確に対応する。", "words": [{"word": "迅速", "reading": "ジンソク", "kanjis": [{"char": "迅", "reading": "ジン", "type": "音読み"}, {"char": "速", "reading": "ソク", "type": "音読み"}]}]},
+    {"sentence": "日常的なトレーニングによって健全な身体を鍛える。", "words": [{"word": "身体", "reading": "シンタイ", "kanjis": [{"char": "身", "reading": "シン", "type": "音読み"}, {"char": "体", "reading": "タイ", "type": "音読み"}]}]},
+    {"sentence": "選手たちが日々の練習で自己記録を著しく伸長させる。", "words": [{"word": "伸長", "reading": "シンチョウ", "kanjis": [{"char": "伸", "reading": "シン", "type": "音読み"}, {"char": "長", "reading": "チョウ", "type": "音読み"}]}]},
+    {"sentence": "リスクを排除するために今後の対応を慎重に検討する。", "words": [{"word": "慎重", "reading": "シンチョウ", "kanjis": [{"char": "慎", "reading": "シン", "type": "音読み"}, {"char": "重", "reading": "チョウ", "type": "音読み"}]}]},
+    {"sentence": "許可なく関係者以外の者が敷地内に進入する。", "words": [{"word": "進入", "reading": "シンニュウ", "kanjis": [{"char": "進", "reading": "シン", "type": "音読み"}, {"char": "入", "reading": "ニュウ", "type": "音読み"}]}]},
+    {"sentence": "他国の領土へ無断で兵を進めて侵略する。", "words": [{"word": "侵略", "reading": "シンリャク", "kanjis": [{"char": "侵", "reading": "シン", "type": "音読み"}, {"char": "略", "reading": "リャク", "type": "音読み"}]}]},
+    {"sentence": "地域住民のために新しい病院が診療を開始する。", "words": [{"word": "診療", "reading": "シンリョウ", "kanjis": [{"char": "診", "reading": "シン", "type": "音読み"}, {"char": "療", "reading": "リョウ", "type": "音読み"}]}]},
+    {"sentence": "行動の裏に隠された複雑な人の心理を分析する。", "words": [{"word": "心理", "reading": "シンリ", "kanjis": [{"char": "心", "reading": "シン", "type": "音読み"}, {"char": "理", "reading": "リ", "type": "音読み"}]}]},
+    {"sentence": "長年の努力が実を結び事業に成功する。", "words": [{"word": "成功", "reading": "セイコウ", "kanjis": [{"char": "成", "reading": "セイ", "type": "音読み"}, {"char": "功", "reading": "コウ", "type": "音読み"}]}]},
+    {"sentence": "混雑を避けるために入場制限を行う。", "words": [{"word": "制限", "reading": "セイゲン", "kanjis": [{"char": "制", "reading": "セイ", "type": "音読み"}, {"char": "限", "reading": "ゲン", "type": "音読み"}]}]},
+    {"sentence": "効率的なラインで高品質な製品を生産する。", "words": [{"word": "生産", "reading": "セイサン", "kanjis": [{"char": "生", "reading": "セイ", "type": "音読み"}, {"char": "産", "reading": "サン", "type": "音読み"}]}]},
+    {"sentence": "国民の代表として国家の政治を司る。", "words": [{"word": "政治", "reading": "セイジ", "kanjis": [{"char": "政", "reading": "セイ", "type": "音読み"}, {"char": "治", "reading": "ジ", "type": "音読み"}]}]},
+    {"sentence": "トラブルが解決して数値が正常な状態に戻る。", "words": [{"word": "正常", "reading": "セイジョウ", "kanjis": [{"char": "正", "reading": "セイ", "type": "音読み"}, {"char": "常", "reading": "ジョウ", "type": "音読み"}]}]},
+    {"sentence": "興奮する群衆の危険な暴走を即座に制止する。", "words": [{"word": "制止", "reading": "セイシ", "kanjis": [{"char": "制", "reading": "セイ", "type": "音読み"}, {"char": "止", "reading": "シ", "type": "音読み"}]}]},
+    {"sentence": "ミクロン単位の誤差も許さない精密な機械を作る。", "words": [{"word": "精密", "reading": "セイミツ", "kanjis": [{"char": "精", "reading": "セイ", "type": "音読み"}, {"char": "密", "reading": "ミツ", "type": "音読み"}]}]},
+    {"sentence": "どんな生命であっても尊厳を固く守るべきだ。", "words": [{"word": "生命", "reading": "セイメイ", "kanjis": [{"char": "生", "reading": "セイ", "type": "音読み"}, {"char": "命", "reading": "メイ", "type": "音読み"}]}]},
+    {"sentence": "不要な書類を処分してデスク周りを整理する。", "words": [{"word": "整理", "reading": "セイリ", "kanjis": [{"char": "整", "reading": "セイ", "type": "音読み"}, {"char": "理", "reading": "リ", "type": "音読み"}]}]},
+    {"sentence": "安全面と意匠性を考慮して建物を設計する。", "words": [{"word": "設計", "reading": "セッケイ", "kanjis": [{"char": "設", "reading": "セツ", "type": "音読み"}, {"char": "計", "reading": "ケイ", "type": "音読み"}]}]},
+    {"sentence": "ウイルスを含んだ物体と直接接触するのを避ける。", "words": [{"word": "接触", "reading": "セッショク", "kanjis": [{"char": "接", "reading": "セツ", "type": "音読み"}, {"char": "触", "reading": "ショク", "type": "音読み"}]}]},
+    {"sentence": "街頭の主要なポイントに防犯カメラを設置する。", "words": [{"word": "設置", "reading": "セッチ", "kanjis": [{"char": "設", "reading": "セツ", "type": "音読み"}, {"char": "置", "reading": "チ", "type": "音読み"}]}]},
+    {"sentence": "根気強い話し合いによって反対派の相手を説得する。", "words": [{"word": "説得", "reading": "セットク", "kanjis": [{"char": "説", "reading": "セツ", "type": "音読み"}, {"char": "得", "reading": "トク", "type": "音読み"}]}]},
+    {"sentence": "メディアを通じて画期的な新商品を宣伝する。", "words": [{"word": "宣伝", "reading": "センデン", "kanjis": [{"char": "宣", "reading": "セン", "type": "音読み"}, {"char": "伝", "reading": "デン", "type": "音読み"}]}]},
+    {"sentence": "大会委員長が堂々と開会を宣言する。", "words": [{"word": "宣言", "reading": "センゲン", "kanjis": [{"char": "宣", "reading": "セン", "type": "音読み"}, {"char": "言", "reading": "ゲン", "type": "音読み"}]}]},
+    {"sentence": "権利を行使して公正な選挙に投票する。", "words": [{"word": "選挙", "reading": "センキョ", "kanjis": [{"char": "選", "reading": "セン", "type": "音読み"}, {"char": "挙", "reading": "キョ", "type": "音読み"}]}]},
+    {"sentence": "提示された選択肢の中から最善の道を選択する。", "words": [{"word": "選択", "reading": "センタク", "kanjis": [{"char": "選", "reading": "セン", "type": "音読み"}, {"char": "択", "reading": "タク", "type": "音読み"}]}]},
+    {"sentence": "使用した実験機器を専用の洗剤で洗浄する。", "words": [{"word": "洗浄", "reading": "センジョウ", "kanjis": [{"char": "洗", "reading": "セン", "type": "音読み"}, {"char": "浄", "reading": "ジョウ", "type": "音読み"}]}]},
+    {"sentence": "自分の専門分野における研究を深める。", "words": [{"word": "専門", "reading": "センモン", "kanjis": [{"char": "専", "reading": "セン", "type": "音読み"}, {"char": "門", "reading": "モン", "type": "音読み"}]}]},
+    {"sentence": "武力を背景にして敵国の要衝の地を占領する。", "words": [{"word": "占領", "reading": "センリョウ", "kanjis": [{"char": "占", "reading": "セン", "type": "音読み"}, {"char": "領", "reading": "リョウ", "type": "音読み"}]}]},
+    {"sentence": "豊かな想像力を働かせて物語を執筆する。", "words": [{"word": "想像", "reading": "ソウゾウ", "kanjis": [{"char": "想", "reading": "ソウ", "type": "音読み"}, {"char": "像", "reading": "ゾウ", "type": "音読み"}]}]},
+    {"sentence": "海外からの移住者により人口が急速に増加する。", "words": [{"word": "増加", "reading": "ゾウカ", "kanjis": [{"char": "増", "reading": "ゾウ", "type": "音読み"}, {"char": "加", "reading": "カ", "type": "音読み"}]}]},
+    {"sentence": "複数のデータを総合的に分析して判断する。", "words": [{"word": "総合", "reading": "ソウゴウ", "kanjis": [{"char": "総", "reading": "ソウ", "type": "音読み"}, {"char": "合", "reading": "ゴウ", "type": "音読み"}]}]},
+    {"sentence": "複雑な手順に従って精密機械を正しく操作する。", "words": [{"word": "操作", "reading": "ソウサ", "kanjis": [{"char": "操", "reading": "ソウ", "type": "音読み"}, {"char": "作", "reading": "サ", "type": "音読み"}]}]},
+    {"sentence": "現場の痕跡を科学的に検証して捜査を進める。", "words": [{"word": "捜査", "reading": "ソウサ", "kanjis": [{"char": "捜", "reading": "ソウ", "type": "音読み"}, {"char": "査", "reading": "サ", "type": "音読み"}]}]},
+    {"sentence": "完成した書類を添付してメールを送信する。", "words": [{"word": "送信", "reading": "ソウシン", "kanjis": [{"char": "送", "reading": "ソウ", "type": "音読み"}, {"char": "信", "reading": "シン", "type": "音読み"}]}]},
+    {"sentence": "山の斜面を削って安全な宅地を造成する。", "words": [{"word": "造成", "reading": "ゾウセイ", "kanjis": [{"char": "造", "reading": "ゾウ", "type": "音読み"}, {"char": "成", "reading": "セイ", "type": "音読み"}]}]},
+    {"sentence": "一人で悩まずに法律の専門家に相談する。", "words": [{"word": "相談", "reading": "ソウダン", "kanjis": [{"char": "相", "reading": "ソウ", "type": "音読み"}, {"char": "談", "reading": "ダン", "type": "音読み"}]}]},
+    {"sentence": "緊急時に作動する安全装置を点検する。", "words": [{"word": "装置", "reading": "ソウチ", "kanjis": [{"char": "装", "reading": "ソウ", "type": "音読み"}, {"char": "置", "reading": "チ", "type": "音読み"}]}]},
+    {"sentence": "健康診断で正確に身長と体重を測定する。", "words": [{"word": "測定", "reading": "ソクテイ", "kanjis": [{"char": "測", "reading": "ソク", "type": "音読み"}, {"char": "定", "reading": "テイ", "type": "音読み"}]}]},
+    {"sentence": "志を同じくする仲間と新しい組織を立ち上げる。", "words": [{"word": "組織", "reading": "ソシキ", "kanjis": [{"char": "組", "reading": "ソ", "type": "音読み"}, {"char": "織", "reading": "シキ", "type": "音読み"}]}]},
+    {"sentence": "防波堤を築いて高潮の被害を未然に阻止する。", "words": [{"word": "阻止", "reading": "ソシ", "kanjis": [{"char": "阻", "reading": "ソ", "type": "音読み"}, {"char": "止", "reading": "シ", "type": "音読み"}]}]},
+    {"sentence": "いかなる状況であっても個人の尊厳を守る。", "words": [{"word": "尊厳", "reading": "ソンゲン", "kanjis": [{"char": "尊", "reading": "ソン", "type": "音読み"}, {"char": "厳", "reading": "ゲン", "type": "音読み"}]}]},
+    {"sentence": "長年の実績を残した恩師を心から尊敬する。", "words": [{"word": "尊敬", "reading": "ソンケイ", "kanjis": [{"char": "尊", "reading": "ソン", "type": "音読み"}, {"char": "敬", "reading": "ケイ", "type": "音読み"}]}]},
+    {"sentence": "客観的な事実に基づきその理由が存在する。", "words": [{"word": "存在", "reading": "ソンザイ", "kanjis": [{"char": "存", "reading": "ソン", "type": "音読み"}, {"char": "在", "reading": "ザイ", "type": "音読み"}]}]},
+    {"sentence": "不測の災害によって多大な損失を被る。", "words": [{"word": "損失", "reading": "ソンシツ", "kanjis": [{"char": "損", "reading": "ソン", "type": "音読み"}, {"char": "失", "reading": "シツ", "type": "音読み"}]}]},
+    {"sentence": "伝統的な祭りの存続を決める住民投票。", "words": [{"word": "存続", "reading": "ソンゾク", "kanjis": [{"char": "存", "reading": "ソン", "type": "音読み"}, {"char": "続", "reading": "ゾク", "type": "音読み"}]}]},
+    {"sentence": "相手に対して常に誠実な態度で接する。", "words": [{"word": "態度", "reading": "タイド", "kanjis": [{"char": "態", "reading": "タイ", "type": "音読み"}, {"char": "度", "reading": "ド", "type": "音読み"}]}]},
+    {"sentence": "万全の地震対策をあらかじめ講じる。", "words": [{"word": "対策", "reading": "タイサク", "kanjis": [{"char": "対", "reading": "タイ", "type": "音読み"}, {"char": "策", "reading": "サク", "type": "音読み"}]}]},
+    {"sentence": "今回の調査の対象を若者層に絞る。", "words": [{"word": "対象", "reading": "タイショウ", "kanjis": [{"char": "対", "reading": "タイ", "type": "音読み"}, {"char": "象", "reading": "ショウ", "type": "音読み"}]}]},
+    {"sentence": "重要指名手配中の容疑者を逮捕する。", "words": [{"word": "逮捕", "reading": "タイホ", "kanjis": [{"char": "逮", "reading": "タイ", "type": "音読み"}, {"char": "捕", "reading": "ホ", "type": "音読み"}]}]},
+    {"sentence": "東の空から力強く太陽が昇る。", "words": [{"word": "太陽", "reading": "タイヨウ", "kanjis": [{"char": "太", "reading": "タイ", "type": "音読み"}, {"char": "陽", "reading": "ヨウ", "type": "音読み"}]}]},
+    {"sentence": "双方の妥協点を探り平和に解決する。", "words": [{"word": "妥協", "reading": "ダキョウ", "kanjis": [{"char": "妥", "reading": "ダ", "type": "音読み"}, {"char": "協", "reading": "キョウ", "type": "音読み"}]}]},
+    {"sentence": "旧態依然とした現状を大胆に打破する。", "words": [{"word": "打破", "reading": "ダハ", "kanjis": [{"char": "打", "reading": "ダ", "type": "音読み"}, {"char": "破", "reading": "ハ", "type": "音読み"}]}]},
+    {"sentence": "人類が未だ踏み込んでいない未知の領域を探索する。", "words": [{"word": "探索", "reading": "タンサク", "kanjis": [{"char": "探", "reading": "タン", "type": "音読み"}, {"char": "索", "reading": "サク", "type": "音読み"}]}]},
+    {"sentence": "作業工程を見直して所要時間を短縮する。", "words": [{"word": "短縮", "reading": "タンシュク", "kanjis": [{"char": "短", "reading": "タン", "type": "音読み"}, {"char": "縮", "reading": "シュク", "type": "音読み"}]}]},
+    {"sentence": "新しい生命が誕生したことを祝福する。", "words": [{"word": "誕生", "reading": "タンジョウ", "kanjis": [{"char": "誕", "reading": "タン", "type": "音読み"}, {"char": "生", "reading": "ジョウ", "type": "音読み"}]}]},
+    {"sentence": "事故の根本的な原因を詳細に調査する。", "words": [{"word": "調査", "reading": "チョウサ", "kanjis": [{"char": "調", "reading": "チョウ", "type": "音読み"}, {"char": "査", "reading": "サ", "type": "音読み"}]}]},
+    {"sentence": "エアコンの設定を変更して室温を調節する。", "words": [{"word": "調節", "reading": "チョウセツ", "kanjis": [{"char": "調", "reading": "チョウ", "type": "音読み"}, {"char": "節", "reading": "セツ", "type": "音読み"}]}]},
+    {"sentence": "前人未到の大記録に果敢に挑戦する。", "words": [{"word": "挑戦", "reading": "チョウセン", "kanjis": [{"char": "挑", "reading": "チョウ", "type": "音読み"}, {"char": "戦", "reading": "セン", "type": "音読み"}]}]},
+    {"sentence": "将来に備えて銀行口座に貯金する。", "words": [{"word": "貯金", "reading": "チョキン", "kanjis": [{"char": "貯", "reading": "チョ", "type": "音読み"}, {"char": "金", "reading": "キン", "type": "音読み"}]}]},
+    {"sentence": "事故が発生した直後に救急車が到着する。", "words": [{"word": "直後", "reading": "チョクゴ", "kanjis": [{"char": "直", "reading": "チョク", "type": "音読み"}, {"char": "後", "reading": "ゴ", "type": "音読み"}]}]},
+    {"sentence": "危険を察知して直ちに運転を停止する。", "words": [{"word": "停止", "reading": "テイシ", "kanjis": [{"char": "停", "reading": "テイ", "type": "音読み"}, {"char": "止", "reading": "シ", "type": "音読み"}]}]},
+    {"sentence": "業務効率化に向けた新しい企画を提案する。", "words": [{"word": "提案", "reading": "テイアン", "kanjis": [{"char": "提", "reading": "テイ", "type": "音読み"}, {"char": "案", "reading": "アン", "type": "音読み"}]}]},
+    {"sentence": "外部からの理不尽な圧力に強く抵抗する。", "words": [{"word": "抵抗", "reading": "テイコウ", "kanjis": [{"char": "抵", "reading": "テイ", "type": "音読み"}, {"char": "抗", "reading": "コウ", "type": "音読み"}]}]},
+    {"sentence": "困窮する人々へ生活に必要な援助資金を提供する。", "words": [{"word": "提供", "reading": "テイキョウ", "kanjis": [{"char": "提", "reading": "テイ", "type": "音読み"}, {"char": "供", "reading": "キョウ", "type": "音読み"}]}]},
+    {"sentence": "期日までに指定された課題を正確に提出する。", "words": [{"word": "提出", "reading": "テイシュツ", "kanjis": [{"char": "提", "reading": "テイ", "type": "音読み"}, {"char": "出", "reading": "シュツ", "type": "音読み"}]}]},
+    {"sentence": "専門的な知識についてある程度の理解を示す。", "words": [{"word": "程度", "reading": "テイド", "kanjis": [{"char": "程", "reading": "テイ", "type": "音読み"}, {"char": "度", "reading": "ド", "type": "音読み"}]}]},
+    {"sentence": "新しく制定された関係法令を適用する。", "words": [{"word": "適用", "reading": "テキヨウ", "kanjis": [{"char": "適", "reading": "テキ", "type": "音読み"}, {"char": "用", "reading": "ヨウ", "type": "音読み"}]}]},
+    {"sentence": "事件の捜査が思わぬ方向へ急展開する。", "words": [{"word": "展開", "reading": "テンカイ", "kanjis": [{"char": "展", "reading": "テン", "type": "音読み"}, {"char": "開", "reading": "カイ", "type": "音読み"}]}]},
+    {"sentence": "地域に根付いた価値ある伝統を守る。", "words": [{"word": "伝統", "reading": "デントウ", "kanjis": [{"char": "伝", "reading": "デン", "type": "音読み"}, {"char": "統", "reading": "トウ", "type": "音読み"}]}]},
+    {"sentence": "濡れた床で足元をとられて転倒する。", "words": [{"word": "転倒", "reading": "テントウ", "kanjis": [{"char": "転", "reading": "テン", "type": "音読み"}, {"char": "倒", "reading": "トウ", "type": "音読み"}]}]},
+    {"sentence": "夢の実現を目指して日々の努力を重ねる。", "words": [{"word": "努力", "reading": "ドリョク", "kanjis": [{"char": "努", "reading": "ド", "type": "音読み"}, {"char": "力", "reading": "リョク", "type": "音読み"}]}]},
+    {"sentence": "悪天候により都市の交通網が大混乱する。", "words": [{"word": "混乱", "reading": "コンラン", "kanjis": [{"char": "混", "reading": "コン", "type": "音読み"}, {"char": "乱", "reading": "ラン", "type": "音読み"}]}]},
+    {"sentence": "複雑に絡み合った状況を冷静かつ正確に把握する。", "words": [{"word": "把握", "reading": "ハアク", "kanjis": [{"char": "把", "reading": "ハ", "type": "音読み"}, {"char": "握", "reading": "アク", "type": "音読み"}]}]},
+    {"sentence": "自然環境の無分明な破壊を防ぐ。", "words": [{"word": "破壊", "reading": "ハカイ", "kanjis": [{"char": "破", "reading": "ハ", "type": "音読み"}, {"char": "壊", "reading": "カイ", "type": "音読み"}]}]},
+    {"sentence": "現地の状況を調査するために専門家を派遣する。", "words": [{"word": "派遣", "reading": "ハケン", "kanjis": [{"char": "派", "reading": "ハ", "type": "音読み"}, {"char": "遣", "reading": "ケン", "type": "音読み"}]}]},
+    {"sentence": "手続きを終えて公的な証明書を発行する。", "words": [{"word": "発行", "reading": "ハッコウ", "kanjis": [{"char": "発", "reading": "ハツ", "type": "音読み"}, {"char": "行", "reading": "コウ", "type": "音読み"}]}]},
+    {"sentence": "産業の振興によって地域社会が発展する。", "words": [{"word": "発展", "reading": "ハッテン", "kanjis": [{"char": "発", "reading": "ハツ", "type": "音読み"}, {"char": "展", "reading": "テン", "type": "音読み"}]}]},
+    {"sentence": "厳正な審査の結果を記者会見で発表する。", "words": [{"word": "発表", "reading": "ハッピョウ", "kanjis": [{"char": "発", "reading": "ハツ", "type": "音読み"}, {"char": "表", "reading": "ヒョウ", "type": "音読み"}]}]},
+    {"sentence": "生活を画期的に便利にする新技術を発明する。", "words": [{"word": "発明", "reading": "ハツメイ", "kanjis": [{"char": "発", "reading": "ハツ", "type": "音読み"}, {"char": "明", "reading": "メイ", "type": "音読み"}]}]},
+    {"sentence": "収集された客観的な情報から総合的に判断する。", "words": [{"word": "判断", "reading": "ハンダン", "kanjis": [{"char": "判", "reading": "ハン", "type": "音読み"}, {"char": "断", "reading": "ダン", "type": "音読み"}]}]},
+    {"sentence": "提案された新しい方針に対して明確に反対する。", "words": [{"word": "反対", "reading": "ハンタイ", "kanjis": [{"char": "反", "reading": "ハン", "type": "音読み"}, {"char": "対", "reading": "タイ", "type": "音読み"}]}]},
+    {"sentence": "二つの製品の性能をグラフで比較する。", "words": [{"word": "比較", "reading": "ヒカク", "kanjis": [{"char": "比", "reading": "ヒ", "type": "音読み"}, {"char": "較", "reading": "カク", "type": "音読み"}]}]},
+    {"sentence": "発表された新作小説を客観的に批評する。", "words": [{"word": "批評", "reading": "ヒヒョウ", "kanjis": [{"char": "批", "reading": "ヒ", "type": "音読み"}, {"char": "評", "reading": "ヒョウ", "type": "音読み"}]}]},
+    {"sentence": "歴史の流れる中で生じた必然の結果。", "words": [{"word": "必然", "reading": "ヒツゼン", "kanjis": [{"char": "必", "reading": "ヒツ", "type": "音読み"}, {"char": "然", "reading": "ゼン", "type": "音読み"}]}]},
+    {"sentence": "世間に広まった根拠のない噂を否定する。", "words": [{"word": "否定", "reading": "ヒテイ", "kanjis": [{"char": "否", "reading": "ヒ", "type": "音読み"}, {"char": "定", "reading": "テイ", "type": "音読み"}]}]},
+    {"sentence": "国家の重大な秘密を厳重に管理する。", "words": [{"word": "秘密", "reading": "ヒミツ", "kanjis": [{"char": "秘", "reading": "ヒ", "type": "音読み"}, {"char": "密", "reading": "ミツ", "type": "音読み"}]}]},
+    {"sentence": "これまでの研究成果を正当に評価する。", "words": [{"word": "評価", "reading": "ヒョウカ", "kanjis": [{"char": "評", "reading": "ヒョウ", "type": "音読み"}, {"char": "価", "reading": "カ", "type": "音読み"}]}]},
+    {"sentence": "射撃の訓練で正確に標的を射抜く。", "words": [{"word": "標的", "reading": "ヒョウテキ", "kanjis": [{"char": "標", "reading": "ヒョウ", "type": "音読み"}, {"char": "的", "reading": "テキ", "type": "音読み"}]}]},
+    {"sentence": "自分の言葉で素直な気持ちを表現する。", "words": [{"word": "表現", "reading": "ヒョウゲン", "kanjis": [{"char": "表", "reading": "ヒョウ", "type": "音読み"}, {"char": "現", "reading": "ゲン", "type": "音読み"}]}]},
+    {"sentence": "高性能な技術が社会一般へ広く普及する。", "words": [{"word": "普及", "reading": "フキュウ", "kanjis": [{"char": "普", "reading": "フ", "type": "音読み"}, {"char": "及", "reading": "キュウ", "type": "音読み"}]}]},
+    {"sentence": "努力の末に失われた名誉が復活する。", "words": [{"word": "復活", "reading": "フッカツ", "kanjis": [{"char": "復", "reading": "フク", "type": "音読み"}, {"char": "活", "reading": "カツ", "type": "音読み"}]}]},
+    {"sentence": "地域住民の協力によって被災地の復興を進める。", "words": [{"word": "復興", "reading": "フッコウ", "kanjis": [{"char": "復", "reading": "フク", "type": "音読み"}, {"char": "興", "reading": "コウ", "type": "音読み"}]}]},
+    {"sentence": "事業にかかる多額の費用を分担して負担する。", "words": [{"word": "負担", "reading": "フタン", "kanjis": [{"char": "負", "reading": "フ", "type": "音読み"}, {"char": "担", "reading": "タン", "type": "音読み"}]}]},
+    {"sentence": "自然界を支配する複雑な物理の法則を研究する。", "words": [{"word": "物理", "reading": "ブツリ", "kanjis": [{"char": "物", "reading": "ブツ", "type": "音読み"}, {"char": "理", "reading": "リ", "type": "音読み"}]}]},
+    {"sentence": "家庭から出るゴミをルールに従って分別する。", "words": [{"word": "分別", "reading": "ブンベツ", "kanjis": [{"char": "分", "reading": "ブン", "type": "音読み"}, {"char": "別", "reading": "ベツ", "type": "音読み"}]}]},
+    {"sentence": "コンピュータで大量のデータを高速に分析する。", "words": [{"word": "分析", "reading": "ブンセキ", "kanjis": [{"char": "分", "reading": "ブン", "type": "音読み"}, {"char": "析", "reading": "セキ", "type": "音読み"}]}]},
+    {"sentence": "世界中の人々が争いのない平和を心から願う。", "words": [{"word": "平和", "reading": "ヘイワ", "kanjis": [{"char": "平", "reading": "ヘイ", "type": "音読み"}, {"char": "和", "reading": "ワ", "type": "音読み"}]}]},
+    {"sentence": "交通機関の乱れにより旅行の予定を変更する。", "words": [{"word": "変更", "reading": "ヘンコウ", "kanjis": [{"char": "変", "reading": "ヘン", "type": "音読み"}, {"char": "更", "reading": "コウ", "type": "音読み"}]}]},
+    {"sentence": "上司に対して業務の進捗状況を正確に報告する。", "words": [{"word": "報告", "reading": "ホウコク", "kanjis": [{"char": "報", "reading": "ホウ", "type": "音読み"}, {"char": "告", "reading": "コク", "type": "音読み"}]}]},
+    {"sentence": "旧知の友人の自宅を久しぶりに訪問する。", "words": [{"word": "訪問", "reading": "ホウモン", "kanjis": [{"char": "訪", "reading": "ホウ", "type": "音読み"}, {"char": "問", "reading": "モン", "type": "音読み"}]}]},
+    {"sentence": "長年の経験に基づく豊富な知識を活用する。", "words": [{"word": "豊富", "reading": "ホウフ", "kanjis": [{"char": "豊", "reading": "ホウ", "type": "音読み"}, {"char": "富", "reading": "フ", "type": "音読み"}]}]},
+    {"sentence": "社会秩序を守るために法律を厳格に遵守する。", "words": [{"word": "法律", "reading": "ホウリツ", "kanjis": [{"char": "法", "reading": "ホウ", "type": "音読み"}, {"char": "律", "reading": "リツ", "type": "音読み"}]}]},
+    {"sentence": "歴史的な価値が高い文化財を厳重に保護する。", "words": [{"word": "保護", "reading": "ホゴ", "kanjis": [{"char": "保", "reading": "ホ", "type": "音読み"}, {"char": "護", "reading": "ゴ", "type": "音読み"}]}]},
+    {"sentence": "自社製品の品質を長期間にわたり保証する。", "words": [{"word": "保証", "reading": "ホショウ", "kanjis": [{"char": "保", "reading": "ホ", "type": "音読み"}, {"char": "証", "reading": "ショウ", "type": "音読み"}]}]},
+    {"sentence": "貴重な歴史的文書を安全な場所で保存する。", "words": [{"word": "保存", "reading": "ホゾン", "kanjis": [{"char": "保", "reading": "ホ", "type": "音読み"}, {"char": "存", "reading": "ゾン", "type": "音読み"}]}]},
+    {"sentence": "外国語で書かれた論文を日本語へ翻訳する。", "words": [{"word": "翻訳", "reading": "ホンヤク", "kanjis": [{"char": "翻", "reading": "ホン", "type": "音読み"}, {"char": "訳", "reading": "ヤク", "type": "音読み"}]}]},
+    {"sentence": "誰からも尊敬される模範的な行動をとる。", "words": [{"word": "模範", "reading": "モハン", "kanjis": [{"char": "模", "reading": "モ", "type": "音読み"}, {"char": "範", "reading": "ハン", "type": "音読み"}]}]},
+    {"sentence": "事前にインターネットで新幹線の指定席を予約する。", "words": [{"word": "予約", "reading": "ヨヤク", "kanjis": [{"char": "予", "reading": "ヨ", "type": "音読み"}, {"char": "約", "reading": "ヤク", "type": "音読み"}]}]},
+    {"sentence": "健全な事業活動を通して正当な利益を追求する。", "words": [{"word": "利益", "reading": "リエキ", "kanjis": [{"char": "利", "reading": "リ", "type": "音読み"}, {"char": "益", "reading": "エキ", "type": "音読み"}]}]},
+    {"sentence": "自らの高い理想を追い求める。", "words": [{"word": "理想", "reading": "リソウ", "kanjis": [{"char": "理", "reading": "リ", "type": "音読み"}, {"char": "想", "reading": "ソウ", "type": "音読み"}]}]},
+    {"sentence": "庭先に美しい花が咲く。", "words": [{"word": "咲く", "reading": "さく", "kanjis": [{"char": "咲", "reading": "サ", "type": "訓読み"}]}]},
+    {"sentence": "高い志を胸に抱く。", "words": [{"word": "志", "reading": "こころざし", "kanjis": [{"char": "志", "reading": "ココロザシ", "type": "訓読み"}]}, {"word": "抱く", "reading": "いだく", "kanjis": [{"char": "抱", "reading": "イダ", "type": "訓読み"}]}]},
+    {"sentence": "重大な過ちを犯す。", "words": [{"word": "過ち", "reading": "あやまち", "kanjis": [{"char": "過", "reading": "アヤマ", "type": "訓読み"}]}, {"word": "犯す", "reading": "おかす", "kanjis": [{"char": "犯", "reading": "オカ", "type": "訓読み"}]}]},
+    {"sentence": "社会の発展に身を捧げる。", "words": [{"word": "捧げる", "reading": "ささげる", "kanjis": [{"char": "捧", "reading": "ササ", "type": "訓読み"}]}]},
+    {"sentence": "自らの非を素直に悟る。", "words": [{"word": "悟る", "reading": "さとる", "kanjis": [{"char": "悟", "reading": "サト", "type": "訓読み"}]}]},
+    {"sentence": "家族の健康を静かに祈る。", "words": [{"word": "祈る", "reading": "いのる", "kanjis": [{"char": "祈", "reading": "イノ", "type": "訓読み"}]}]},
+    {"sentence": "新しい困難に果敢に挑む。", "words": [{"word": "挑む", "reading": "いどむ", "kanjis": [{"char": "挑", "reading": "イド", "type": "訓読み"}]}]},
+    {"sentence": "静寂な庭園でしばし憩う。", "words": [{"word": "憩う", "reading": "いこう", "kanjis": [{"char": "憩", "reading": "イコ", "type": "訓読み"}]}]},
+    {"sentence": "豊かな実りを静かに祝う。", "words": [{"word": "祝う", "reading": "いわう", "kanjis": [{"char": "祝", "reading": "イワ", "type": "訓読み"}]}]},
+    {"sentence": "遠くの山並みを眺める。", "words": [{"word": "眺める", "reading": "ながめる", "kanjis": [{"char": "眺", "reading": "ナガ", "type": "訓読み"}]}]},
+    {"sentence": "年上の人を敬う気持ちを忘れない。", "words": [{"word": "敬う", "reading": "うやまう", "kanjis": [{"char": "敬", "reading": "ウヤマ", "type": "訓読み"}]}]},
+    {"sentence": "基礎を固めて次の段階へ進む。", "words": [{"word": "固める", "reading": "かためる", "kanjis": [{"char": "固", "reading": "カタ", "type": "訓読み"}]}]},
+    {"sentence": "静かな湖面を優しく揺らす。", "words": [{"word": "揺らす", "reading": "ゆらす", "kanjis": [{"char": "揺", "reading": "ユ", "type": "訓読み"}]}]},
+    {"sentence": "知識の不足を補う。", "words": [{"word": "補う", "reading": "おぎなう", "kanjis": [{"char": "補", "reading": "オギナ", "type": "訓読み"}]}]},
+    {"sentence": "広い海で気持ちよく泳ぐ。", "words": [{"word": "泳ぐ", "reading": "およぐ", "kanjis": [{"char": "泳", "reading": "オヨ", "type": "訓読み"}]}]},
+    {"sentence": "部屋を花で華やかに飾る。", "words": [{"word": "飾る", "reading": "かざる", "kanjis": [{"char": "飾", "reading": "カザ", "type": "訓読み"}]}]},
+    {"sentence": "将来の大きな夢を語る。", "words": [{"word": "語る", "reading": "かたる", "kanjis": [{"char": "語", "reading": "カタ", "type": "訓読み"}]}]},
+    {"sentence": "毎日元気に学校へ通う。", "words": [{"word": "通う", "reading": "かよう", "kanjis": [{"char": "通", "reading": "カヨ", "type": "訓読み"}]}]},
+    {"sentence": "日差しを浴びて服が乾く。", "words": [{"word": "乾く", "reading": "かわく", "kanjis": [{"char": "乾", "reading": "カワ", "type": "訓読み"}]}]},
+    {"sentence": "互いに高め合いながら技を競う。", "words": [{"word": "競う", "reading": "きそう", "kanjis": [{"char": "競", "reading": "キソ", "type": "訓読み"}]}]},
+    {"sentence": "新商品の性能を実際に試す。", "words": [{"word": "試す", "reading": "ためす", "kanjis": [{"char": "試", "reading": "タメ", "type": "訓読み"}]}]},
+    {"sentence": "無理な依頼をきっぱりと断る。", "words": [{"word": "断る", "reading": "ことわる", "kanjis": [{"char": "断", "reading": "コトワ", "type": "訓読み"}]}]},
+    {"sentence": "失くした貴重な鍵を探す。", "words": [{"word": "探す", "reading": "さがす", "kanjis": [{"char": "探", "reading": "サガ", "type": "訓読み"}]}]},
+    {"sentence": "困難な時に家族を支える。", "words": [{"word": "支える", "reading": "ささえる", "kanjis": [{"char": "支", "reading": "ササ", "type": "訓読み"}]}]},
+    {"sentence": "街に温かい春が訪れる。", "words": [{"word": "訪れる", "reading": "おとずれる", "kanjis": [{"char": "訪", "reading": "オトズ", "type": "訓読み"}]}]},
+    {"sentence": "重大な大役を立派に務める。", "words": [{"word": "務める", "reading": "つとめる", "kanjis": [{"char": "務", "reading": "ツト", "type": "訓読み"}]}]},
+    {"sentence": "正々堂々と勝敗を争う。", "words": [{"word": "争う", "reading": "あらそう", "kanjis": [{"char": "争", "reading": "アラソ", "type": "訓読み"}]}]},
+    {"sentence": "相手へ心からの感謝を表す。", "words": [{"word": "表す", "reading": "あらわす", "kanjis": [{"char": "表", "reading": "アラワ", "type": "訓読み"}]}]},
+    {"sentence": "霧の中から人影が現れる。", "words": [{"word": "現れる", "reading": "あらわれる", "kanjis": [{"char": "現", "reading": "アラワ", "type": "訓読み"}]}]},
+    {"sentence": "生涯の体験をもとに本を著す。", "words": [{"word": "著す", "reading": "あらわす", "kanjis": [{"char": "著", "reading": "アラワ", "type": "訓読み"}]}]},
+    {"sentence": "台風の接近により海が荒れる。", "words": [{"word": "荒れる", "reading": "あれる", "kanjis": [{"char": "荒", "reading": "アレ", "type": "訓読み"}]}]},
+    {"sentence": "友人の新たなる門出を祝う。", "words": [{"word": "祝う", "reading": "いわう", "kanjis": [{"char": "祝", "reading": "イワ", "type": "訓読み"}]}]},
+    {"sentence": "軽い物体が水面に浮かぶ。", "words": [{"word": "浮く", "reading": "うく", "kanjis": [{"char": "浮", "reading": "ウ", "type": "訓読み"}]}]},
+    {"sentence": "お客様からの注文を謹んで承る。", "words": [{"word": "承る", "reading": "うけたまわる", "kanjis": [{"char": "承", "reading": "ウケタマワ", "type": "訓読み"}]}]},
+    {"sentence": "スイッチを入れると機械が動く。", "words": [{"word": "動く", "reading": "うごく", "kanjis": [{"char": "動", "reading": "ウゴ", "type": "訓読み"}]}]},
+    {"sentence": "不注意によって貴重な機会を失う。", "words": [{"word": "失う", "reading": "うしなう", "kanjis": [{"char": "失", "reading": "ウシナ", "type": "訓読み"}]}]},
+    {"sentence": "あまりの光景に自らの目を疑う。", "words": [{"word": "疑う", "reading": "うたがう", "kanjis": [{"char": "疑", "reading": "ウタガ", "type": "訓読み"}]}]},
+    {"sentence": "災害が無慈悲にも大切な命を奪う。", "words": [{"word": "奪う", "reading": "うばう", "kanjis": [{"char": "奪", "reading": "ウバ", "type": "訓読み"}]}]},
+    {"sentence": "鳥が巣の中で新しい卵を産む。", "words": [{"word": "産む", "reading": "うむ", "kanjis": [{"char": "産", "reading": "ウ", "type": "訓読み"}]}]},
+    {"sentence": "議席の過半数を自党が占める。", "words": [{"word": "占める", "reading": "しめる", "kanjis": [{"char": "占", "reading": "シ", "type": "訓読み"}]}]},
+    {"sentence": "果てしない将来の夢を追う。", "words": [{"word": "追う", "reading": "おう", "kanjis": [{"char": "追", "reading": "オ", "type": "訓読み"}]}]},
+    {"sentence": "一面の白雪が地面を覆う。", "words": [{"word": "覆う", "reading": "おおう", "kanjis": [{"char": "覆", "reading": "オオ", "type": "訓読み"}]}]},
+    {"sentence": "毎日の努力を怠る。", "words": [{"word": "怠る", "reading": "おこたる", "kanjis": [{"char": "怠", "reading": "オコタ", "type": "訓読み"}]}]},
+    {"sentence": "湧き上がる強い感情を抑える。", "words": [{"word": "抑える", "reading": "おさえる", "kanjis": [{"char": "抑", "reading": "オサ", "type": "訓読み"}]}]},
+    {"sentence": "期限までに正しく税金を納める。", "words": [{"word": "納める", "reading": "おさめる", "kanjis": [{"char": "納", "reading": "オサ", "type": "訓読み"}]}]},
+    {"sentence": "徳をもって平和に国を治める。", "words": [{"word": "治める", "reading": "おさめる", "kanjis": [{"char": "治", "reading": "オサ", "type": "訓読み"}]}]},
+    {"sentence": "危険を察知して失敗を恐れる。", "words": [{"word": "恐れる", "reading": "おそれる", "kanjis": [{"char": "恐", "reading": "オソレ", "type": "訓読み"}]}]},
+    {"sentence": "うっかり大切な財布を落とす。", "words": [{"word": "落とす", "reading": "おとす", "kanjis": [{"char": "落", "reading": "オ", "type": "訓読み"}]}]},
+    {"sentence": "長年の努力が実り平和が訪れる。", "words": [{"word": "訪れる", "reading": "おとずれる", "kanjis": [{"char": "訪", "reading": "オトズ", "type": "訓読み"}]}]},
+    {"sentence": "華やかな舞台の上で伸びやかに踊る。", "words": [{"word": "踊る", "reading": "おどる", "kanjis": [{"char": "踊", "reading": "オド", "type": "訓読み"}]}]},
+    {"sentence": "想定外の驚くべきニュースに驚く。", "words": [{"word": "驚く", "reading": "おどろく", "kanjis": [{"char": "驚", "reading": "オドロ", "type": "訓読み"}]}]},
+    {"sentence": "議論が白熱して熱を帯びる。", "words": [{"word": "帯びる", "reading": "おびる", "kanjis": [{"char": "帯", "reading": "オビ", "type": "訓読み"}]}]},
+    {"sentence": "教科書の英単語を暗記して覚える。", "words": [{"word": "覚える", "reading": "おぼえる", "kanjis": [{"char": "覚", "reading": "オボ", "type": "訓読み"}]}]},
+    {"sentence": "手で木の実のついた枝を折る。", "words": [{"word": "折る", "reading": "おる", "kanjis": [{"char": "折", "reading": "オ", "type": "訓読み"}]}]},
+    {"sentence": "伝統的な技法で綺麗な布を織る。", "words": [{"word": "織る", "reading": "おる", "kanjis": [{"char": "織", "reading": "オ", "type": "訓読み"}]}]},
+    {"sentence": "足元に気を付けて階段を降る。", "words": [{"word": "降る", "reading": "おりる", "kanjis": [{"char": "降", "reading": "オ", "type": "訓読み"}]}]},
+    {"sentence": "書店で話題の新刊本を買う。", "words": [{"word": "買う", "reading": "かう", "kanjis": [{"char": "買", "reading": "カ", "type": "訓読み"}]}]},
+    {"sentence": "借りていた本を期日までに返す。", "words": [{"word": "返す", "reading": "かえす", "kanjis": [{"char": "返", "reading": "カエ", "type": "訓読み"}]}]},
+    {"sentence": "状況に応じて計画の予定を変える。", "words": [{"word": "変える", "reading": "かえる", "kanjis": [{"char": "変", "reading": "カエ", "type": "訓読み"}]}]},
+    {"sentence": "古くなった照明の電球を替える。", "words": [{"word": "替える", "reading": "かえる", "kanjis": [{"char": "替", "reading": "カエ", "type": "訓読み"}]}]},
+    {"sentence": "両手に抱えきれないほどの荷物を抱える。", "words": [{"word": "抱える", "reading": "かかえる", "kanjis": [{"char": "抱", "reading": "カカ", "type": "訓読み"}]}]},
+    {"sentence": "運動会の会場で高く旗を掲げる。", "words": [{"word": "掲げる", "reading": "かかげる", "kanjis": [{"char": "掲", "reading": "カカ", "type": "訓読み"}]}]},
+    {"sentence": "作業を終える時間を厳しく限る。", "words": [{"word": "限る", "reading": "かぎる", "kanjis": [{"char": "限", "reading": "カギ", "type": "訓読み"}]}]},
+    {"sentence": "誰にも見られないように秘密を隠す。", "words": [{"word": "隠す", "reading": "かくす", "kanjis": [{"char": "隠", "reading": "カク", "type": "訓読み"}]}]},
+    {"sentence": "落とした衝撃で大切な茶碗が欠ける。", "words": [{"word": "欠ける", "reading": "かける", "kanjis": [{"char": "欠", "reading": "カ", "type": "訓読み"}]}]},
+    {"sentence": "偶然にも重要な予定が重なる。", "words": [{"word": "重なる", "reading": "かさなる", "kanjis": [{"char": "重", "reading": "カサ", "type": "訓読み"}]}]},
+    {"sentence": "困っている友人に心よくお金を貸す。", "words": [{"word": "貸す", "reading": "かす", "kanjis": [{"char": "貸", "reading": "カ", "type": "訓読み"}]}]},
+    {"sentence": "食生活の乱れにより栄養が偏る。", "words": [{"word": "偏る", "reading": "かたよる", "kanjis": [{"char": "偏", "reading": "カタヨ", "type": "訓読み"}]}]},
+    {"sentence": "夕暮れ時を迎えて西の空へ日があきらかに傾く。", "words": [{"word": "傾く", "reading": "かたむく", "kanjis": [{"char": "傾", "reading": "カタム", "type": "訓読み"}]}]},
+    {"sentence": "静かな部屋で隠された真実を語る。", "words": [{"word": "語る", "reading": "かたる", "kanjis": [{"char": "語", "reading": "カタ", "type": "訓読み"}]}]},
+    {"sentence": "責任をもって次代を担う。", "words": [{"word": "担う", "reading": "になう", "kanjis": [{"char": "担", "reading": "ニナ", "type": "訓読み"}]}]},
+    {"sentence": "二つの重要な役割を兼ねる。", "words": [{"word": "兼ねる", "reading": "かねる", "kanjis": [{"char": "兼", "reading": "カネ", "type": "訓読み"}]}]},
+    {"sentence": "チームの勝利と成功を強く願う。", "words": [{"word": "願う", "reading": "ねがう", "kanjis": [{"char": "願", "reading": "ネガ", "type": "訓読み"}]}]},
+    {"sentence": "都会の喧騒を離れて静寂を好む。", "words": [{"word": "好む", "reading": "このむ", "kanjis": [{"char": "好", "reading": "コノ", "type": "訓読み"}]}]},
+    {"sentence": "難解な質問をされて返答に困る。", "words": [{"word": "困る", "reading": "こまる", "kanjis": [{"char": "困", "reading": "コマ", "type": "訓読み"}]}]},
+    {"sentence": "長時間のデスクワークで首や肩が凝る。", "words": [{"word": "凝る", "reading": "こる", "kanjis": [{"char": "凝", "reading": "コ", "type": "訓読み"}]}]},
+    {"sentence": "相手の行動の裏にある真の意図を探る。", "words": [{"word": "探る", "reading": "さぐる", "kanjis": [{"char": "探", "reading": "サグ", "type": "訓読み"}]}]},
+    {"sentence": "危険を知らせるために大声で叫ぶ。", "words": [{"word": "叫ぶ", "reading": "さけぶ", "kanjis": [{"char": "叫", "reading": "サケ", "type": "訓読み"}]}]},
+    {"sentence": "事故に巻き込まれないよう危険を避ける。", "words": [{"word": "避ける", "reading": "さける", "kanjis": [{"char": "避", "reading": "サケ", "type": "訓読み"}]}]},
+    {"sentence": "古い時計の針がちょうど十二時を指す。", "words": [{"word": "指す", "reading": "さす", "kanjis": [{"char": "指", "reading": "サ", "type": "訓読み"}]}]},
+    {"sentence": "雨が降り始めたので大きな傘を差す。", "words": [{"word": "差す", "reading": "さす", "kanjis": [{"char": "差", "reading": "サ", "type": "訓読み"}]}]},
+    {"sentence": "野山を散策中に鋭い虫が刺す。", "words": [{"word": "刺す", "reading": "さす", "kanjis": [{"char": "刺", "reading": "サ", "type": "訓読み"}]}]},
+    {"sentence": "休日に一緒に遊ぶよう友人を誘う。", "words": [{"word": "誘う", "reading": "さそう", "kanjis": [{"char": "誘", "reading": "サソ", "type": "訓読み"}]}]},
+    {"sentence": "大きな騒音が研究の集中と進行を妨げる。", "words": [{"word": "妨げる", "reading": "さまたげる", "kanjis": [{"char": "妨", "reading": "サマタゲ", "type": "訓読み"}]}]},
+    {"sentence": "公共の室内で大声を出して騒ぐ。", "words": [{"word": "騒ぐ", "reading": "さわぐ", "kanjis": [{"char": "騒", "reading": "サワ", "type": "訓読み"}]}]},
+    {"sentence": "展示物に直接素手で触る。", "words": [{"word": "触る", "reading": "さわる", "kanjis": [{"char": "触", "reading": "サワ", "type": "訓読み"}]}]},
+    {"sentence": "西の水平線へ赤々と日沈む。", "words": [{"word": "沈む", "reading": "しずむ", "kanjis": [{"char": "沈", "reading": "シズ", "type": "訓読み"}]}]},
+    {"sentence": "指示や社会のルールに正しく従う。", "words": [{"word": "従う", "reading": "したがう", "kanjis": [{"char": "従", "reading": "シタガ", "type": "訓読み"}]}]},
+    {"sentence": "レジで買い物の代金を現金で支払う。", "words": [{"word": "支払う", "reading": "しはらう", "kanjis": [{"char": "支", "reading": "シ", "type": "訓読み"}, {"char": "払う", "reading": "はらう", "kanjis": [{"char": "払", "reading": "ハラ", "type": "訓読み"}]}]}]},
+    {"sentence": "荷物をほどけないよう丈夫な紐で縛る。", "words": [{"word": "縛る", "reading": "しばる", "kanjis": [{"char": "縛", "reading": "シバ", "type": "訓読み"}]}]},
+    {"sentence": "無実であることを裏付ける確たる証拠を示す。", "words": [{"word": "示す", "reading": "しめす", "kanjis": [{"char": "示", "reading": "シメ", "type": "訓読み"}]}]},
+    {"sentence": "会場の最前列の席を仲間で占める。", "words": [{"word": "占める", "reading": "しめる", "kanjis": [{"char": "占", "reading": "シ", "type": "訓読み"}]}]},
+    {"sentence": "スーツを着てきっちりとネクタイを締める。", "words": [{"word": "締める", "reading": "しめる", "kanjis": [{"char": "締", "reading": "シ", "type": "訓読み"}]}]},
+    {"sentence": "雨上がりで周囲の湿気が多く空気が湿る。", "words": [{"word": "湿る", "reading": "しめる", "kanjis": [{"char": "湿", "reading": "シメ", "type": "訓読み"}]}]},
+    {"sentence": "分からない言葉の意味を辞書で調べる。", "words": [{"word": "調べる", "reading": "しらべる", "kanjis": [{"char": "調", "reading": "シラベ", "type": "訓読み"}]}]},
+    {"sentence": "他者よりも際立って運動性能が優れる。", "words": [{"word": "優れる", "reading": "すぐれる", "kanjis": [{"char": "優", "reading": "スグレ", "type": "訓読み"}]}]},
+    {"sentence": "家族と一緒に有意義な休日を楽しく過ごす。", "words": [{"word": "過ごす", "reading": "すごす", "kanjis": [{"char": "過", "reading": "スゴ", "type": "訓読み"}]}]},
+    {"sentence": "災害の現場から危機一髪で命を救う。", "words": [{"word": "救う", "reading": "すくう", "kanjis": [{"char": "救", "reading": "スク", "type": "訓読み"}]}]},
+    {"sentence": "日頃の練習の成果と自らの腕前を試す。", "words": [{"word": "試す", "reading": "ためす", "kanjis": [{"char": "試", "reading": "タメ", "type": "訓読み"}]}]},
+    {"sentence": "客観的なデータに基づいて事実を認める。", "words": [{"word": "認める", "reading": "みとめる", "kanjis": [{"char": "認", "reading": "ミトメ", "type": "訓読み"}]}]},
+    {"sentence": "目標に向かって迷わず前に進む。", "words": [{"word": "進む", "reading": "すすむ", "kanjis": [{"char": "進", "reading": "スス", "type": "訓読み"}]}]},
+    {"sentence": "知識を深めるために有益な読書を勧める。", "words": [{"word": "勧める", "reading": "すすめる", "kanjis": [{"char": "勧", "reading": "ススメ", "type": "訓読み"}]}]},
+    {"sentence": "決められた回収日に家庭ゴミを捨てる。", "words": [{"word": "捨てる", "reading": "すてる", "kanjis": [{"char": "捨", "reading": "ステ", "type": "訓読み"}]}]},
+    {"sentence": "山頂の空気は大変清々しく澄む。", "words": [{"word": "澄む", "reading": "すむ", "kanjis": [{"char": "澄", "reading": "ス", "type": "訓読み"}]}]},
+    {"sentence": "提出の期限が刻一刻と近くに迫る。", "words": [{"word": "迫る", "reading": "せまる", "kanjis": [{"char": "迫", "reading": "セマ", "type": "訓読み"}]}]},
+    {"sentence": "一丸となって難攻不落の敵城を攻める。", "words": [{"word": "攻める", "reading": "せめる", "kanjis": [{"char": "攻", "reading": "セメ", "type": "訓読み"}]}]},
+    {"sentence": "一度の失敗について他人を強く責める。", "words": [{"word": "責める", "reading": "せめる", "kanjis": [{"char": "責", "reading": "セメ", "type": "訓読み"}]}]},
+    {"sentence": "不摂生を重ねて自らの健康を損なう。", "words": [{"word": "損なう", "reading": "そこなう", "kanjis": [{"char": "損", "reading": "ソコナ", "type": "訓読み"}]}]},
+    {"sentence": "非常時に備えて防犯用品を事前に備える。", "words": [{"word": "備える", "reading": "そなえる", "kanjis": [{"char": "備", "reading": "ソナエ", "type": "訓読み"}]}]},
+    {"sentence": "参加者が全員遅れずに会場へ揃う。", "words": [{"word": "揃う", "reading": "そろう", "kanjis": [{"char": "揃", "reading": "ソロ", "type": "訓読み"}]}]},
+    {"sentence": "猛烈な強風によって大きな街路樹が倒れる。", "words": [{"word": "倒れる", "reading": "たおれる", "kanjis": [{"char": "倒", "reading": "タオレ", "type": "訓読み"}]}]},
+    {"sentence": "将来の選択肢を広げるために知識を蓄える。", "words": [{"word": "蓄える", "reading": "たくわえる", "kanjis": [{"char": "蓄", "reading": "タクワエ", "type": "訓読み"}]}]},
+    {"sentence": "路上で困っている人を親切に助ける。", "words": [{"word": "助ける", "reading": "たすける", "kanjis": [{"char": "助", "reading": "タスケ", "type": "訓読み"}]}]},
+    {"sentence": "迷子になって見知らぬ通行人に道を尋ねる。", "words": [{"word": "尋ねる", "reading": "たずねる", "kanjis": [{"char": "尋", "reading": "タズネ", "type": "訓読み"}]}]},
+    {"sentence": "休日に久しぶりに遠方の友人を訪ねる。", "words": [{"word": "訪ねる", "reading": "たずねる", "kanjis": [{"char": "訪", "reading": "タズネ", "type": "訓読み"}]}]},
+    {"sentence": "恐ろしい猛威を振るう病気と勇敢に戦う。", "words": [{"word": "戦う", "reading": "たたかう", "kanjis": [{"char": "戦", "reading": "タタカ", "type": "訓読み"}]}]},
+    {"sentence": "固く閉ざされた古い木の扉を力強く叩く。", "words": [{"word": "叩く", "reading": "たたく", "kanjis": [{"char": "叩", "reading": "タタ", "type": "訓読み"}]}]},
+    {"sentence": "最後まで諦めなかった選手の健闘を称える。", "words": [{"word": "称える", "reading": "たたえる", "kanjis": [{"char": "称", "reading": "タタエ", "type": "訓読み"}]}]},
+    {"sentence": "あっという間に長い年月が静かに経つ。", "words": [{"word": "経つ", "reading": "たつ", "kanjis": [{"char": "経", "reading": "タ", "type": "訓読み"}]}]},
+    {"sentence": "景色の良い高台の上に新しい自社ビルを建てる。", "words": [{"word": "建てる", "reading": "たてる", "kanjis": [{"char": "建", "reading": "タテ", "type": "訓読み"}]}]},
+    {"sentence": "規則正しい生活を心がけて健康な体調を保つ。", "words": [{"word": "保つ", "reading": "たもつ", "kanjis": [{"char": "保", "reading": "タモ", "type": "訓読み"}]}]},
+    {"sentence": "困ったときは一人で悩まず周囲の信頼できる人に頼る。", "words": [{"word": "頼る", "reading": "たよる", "kanjis": [{"char": "頼", "reading": "タヨ", "type": "訓読み"}]}]},
+    {"sentence": "根本的な考え方や好みの意見が違う。", "words": [{"word": "違う", "reading": "ちがう", "kanjis": [{"char": "違", "reading": "チガ", "type": "訓読み"}]}]},
+    {"sentence": "固い約束を交わして固く再会を契る。", "words": [{"word": "契る", "reading": "ちぎる", "kanjis": [{"char": "契", "reading": "チギ", "type": "訓読み"}]}]},
+    {"sentence": "散らかった道具や書類で部屋を散らかす。", "words": [{"word": "散らかす", "reading": "ちらかす", "kanjis": [{"char": "散", "reading": "チラ", "type": "訓読み"}]}]},
+    {"sentence": "膨大な労力と貴重な時間を無駄に費やす。", "words": [{"word": "費やす", "reading": "ついやす", "kanjis": [{"char": "費", "reading": "ツイヤ", "type": "訓読み"}]}]},
+    {"sentence": "生涯をかけて誠心誠意主人に仕える。", "words": [{"word": "仕える", "reading": "つかえる", "kanjis": [{"char": "仕", "reading": "ツカエ", "type": "訓読み"}]}]},
+    {"sentence": "千載一遇の大きなビジネスチャンスを掴む。", "words": [{"word": "掴む", "reading": "つかむ", "kanjis": [{"char": "掴", "reading": "ツカ", "type": "訓読み"}]}]},
+    {"sentence": "長時間の過重労働によって体が酷く疲れる。", "words": [{"word": "疲れる", "reading": "つかれる", "kanjis": [{"char": "疲", "reading": "ツカレ", "type": "訓読み"}]}]},
+    {"sentence": "お客様のコップに温かいお茶を注ぐ。", "words": [{"word": "注ぐ", "reading": "つぐ", "kanjis": [{"char": "注", "reading": "ツ", "type": "訓読み"}]}]},
+    {"sentence": "自らの犯した罪を一生かけて償う。", "words": [{"word": "償う", "reading": "つぐなう", "kanjis": [{"char": "償", "reading": "ツグナ", "type": "訓読み"}]}]},
+    {"sentence": "新鮮な食材を使って美味しい料理を作る。", "words": [{"word": "作る", "reading": "つくる", "kanjis": [{"char": "作", "reading": "ツク", "type": "訓読み"}]}]},
+    {"sentence": "感謝の気持ちを込めて大切な贈り物を包む。", "words": [{"word": "包む", "reading": "つつむ", "kanjis": [{"char": "包", "reading": "ツツ", "type": "訓読み"}]}]},
+    {"sentence": "早期の問題解決に向けて全力で努める。", "words": [{"word": "努める", "reading": "つとめる", "kanjis": [{"char": "努", "reading": "ツトメ", "type": "訓読み"}]}]},
+    {"sentence": "友情の証としてお互いの手を固く繋ぐ。", "words": [{"word": "繋ぐ", "reading": "つなぐ", "kanjis": [{"char": "繋", "reading": "ツナ", "type": "訓読み"}]}]},
+    {"sentence": "ボランティア活動の新規参加者を募る。", "words": [{"word": "募る", "reading": "つのる", "kanjis": [{"char": "募", "reading": "ツノ", "type": "訓読み"}]}]},
+    {"sentence": "寒さが厳しくなり故郷への切ない想いが募る。", "words": [{"word": "募る", "reading": "つのる", "kanjis": [{"char": "募", "reading": "ツノ", "type": "訓読み"}]}]},
+    {"sentence": "現場で地道な業務経験を幾重にも積む。", "words": [{"word": "積む", "reading": "つむ", "kanjis": [{"char": "積", "reading": "ツ", "type": "訓読み"}]}]},
+    {"sentence": "大きな段ボール箱に手際よく荷物を詰める。", "words": [{"word": "詰める", "reading": "つめる", "kanjis": [{"char": "詰", "reading": "ツメ", "type": "訓読み"}]}]},
+    {"sentence": "周囲の不反対に負けず初志を最後まで貫く。", "words": [{"word": "貫く", "reading": "つらぬく", "kanjis": [{"char": "貫", "reading": "ツラヌ", "type": "訓読み"}]}]},
+    {"sentence": "どこまでも青い空のもとに山々が美しく連なる。", "words": [{"word": "連なる", "reading": "つらなる", "kanjis": [{"char": "連", "reading": "ツラナ", "type": "訓読み"}]}]},
+    {"sentence": "軒下に綺麗な涼やかな音の風鈴を吊るす。", "words": [{"word": "吊るす", "reading": "つるす", "kanjis": [{"char": "吊", "reading": "ツル", "type": "訓読み"}]}]},
+    {"sentence": "暗闇の中で優しい月明かりが足元を照らす。", "words": [{"word": "照らす", "reading": "てらす", "kanjis": [{"char": "照", "reading": "テラ", "type": "訓読み"}]}]},
+    {"sentence": "針の穴に慎重に細い糸を通す。", "words": [{"word": "通す", "reading": "とおす", "kanjis": [{"char": "通", "reading": "トオ", "type": "訓読み"}]}]},
+    {"sentence": "出港した大きな船が港から遠ざかる。", "words": [{"word": "遠ざかる", "reading": "とおざかる", "kanjis": [{"char": "遠", "reading": "トオザカ", "type": "訓読み"}]}]},
+    {"sentence": "混雑を避けて安全な道を遠回りする。", "words": [{"word": "遠回り", "reading": "とおまわり", "kanjis": [{"char": "遠", "reading": "トオ", "type": "訓読み"}, {"char": "回り", "reading": "まわり", "kanjis": [{"char": "回", "reading": "マワ", "type": "訓読み"}]}]}]},
+    {"sentence": "スプーンでかき混ぜて砂糖を温かい水に溶かす。", "words": [{"word": "溶かす", "reading": "とかす", "kanjis": [{"char": "溶", "reading": "トカ", "type": "訓読み"}]}]},
+    {"sentence": "知恵をしぼって難解な推理の謎を解く。", "words": [{"word": "解く", "reading": "とく", "kanjis": [{"char": "解", "reading": "ト", "type": "訓読み"}]}]},
+    {"sentence": "道徳の尊さと人のあるべき道を説く。", "words": [{"word": "説く", "reading": "とく", "kanjis": [{"char": "説", "reading": "ト", "type": "訓読み"}]}]},
+    {"sentence": "困難を乗り越えて当初の目的を見事に遂げる。", "words": [{"word": "遂げる", "reading": "とげる", "kanjis": [{"char": "遂", "reading": "トゲ", "type": "訓読み"}]}]},
+    {"sentence": "鏡の前に立って髪型や身だしなみを整える。", "words": [{"word": "整える", "reading": "ととのえる", "kanjis": [{"char": "整", "reading": "トトノエ", "type": "訓読み"}]}]},
+    {"sentence": "遠くの故郷から懐かしい手紙が届く。", "words": [{"word": "届く", "reading": "とどく", "kanjis": [{"char": "届", "reading": "トド", "type": "訓読み"}]}]},
+    {"sentence": "トラブルが発生して復旧作業が一時滞る。", "words": [{"word": "滞る", "reading": "とどこおる", "kanjis": [{"char": "滞", "reading": "トドコオ", "type": "訓読み"}]}]},
+    {"sentence": "出発に向けた万全の準備がすべて整う。", "words": [{"word": "整う", "reading": "ととのう", "kanjis": [{"char": "整", "reading": "トトノ", "type": "訓読み"}]}]},
+    {"sentence": "果てしない澄み渡る空を鳥が飛ぶ。", "words": [{"word": "飛ぶ", "reading": "とぶ", "kanjis": [{"char": "飛", "reading": "ト", "type": "訓読み"}]}]},
+    {"sentence": "電池が切れて柱時計の針が止まる。", "words": [{"word": "止まる", "reading": "とまる", "kanjis": [{"char": "止", "reading": "ト", "type": "訓読み"}]}]},
+    {"sentence": "赤信号を見て安全な位置で車を止める。", "words": [{"word": "止める", "reading": "とめる", "kanjis": [{"char": "止", "reading": "ト", "type": "訓読み"}]}]},
+    {"sentence": "未知の挑戦には一定の危険を伴う。", "words": [{"word": "伴う", "reading": "ともなう", "kanjis": [{"char": "伴", "reading": "トモナ", "type": "訓読み"}]}]},
+    {"sentence": "警察が素早い身のこなしで逃走する犯人を捕らえる。", "words": [{"word": "捕らえる", "reading": "とらえる", "kanjis": [{"char": "捕", "reading": "トラエ", "type": "訓読み"}]}]},
+    {"sentence": "物事の表面だけでなく本質を深く捉える。", "words": [{"word": "捉える", "reading": "とらえる", "kanjis": [{"char": "捉", "reading": "トラエ", "type": "訓読み"}]}]},
+    {"sentence": "動揺を抑えて失われかけた平静を取り戻す。", "words": [{"word": "取り戻す", "reading": "とりもどす", "kanjis": [{"char": "取", "reading": "トリ", "type": "訓読み"}, {"char": "戻す", "reading": "もどす", "kanjis": [{"char": "戻", "reading": "モド", "type": "訓読み"}]}]}]},
+    {"sentence": "感動のあまり目から温かい涙を流す。", "words": [{"word": "流す", "reading": "ながす", "kanjis": [{"char": "流", "reading": "ナガ", "type": "訓読み"}]}]},
+    {"sentence": "落ち込んでいる友人を優しく慰める。", "words": [{"word": "慰める", "reading": "なぐさめる", "kanjis": [{"char": "慰", "reading": "ナグサメ", "type": "訓読み"}]}]},
+    {"sentence": "遠くに向かって力強くボールを投げる。", "words": [{"word": "投げる", "reading": "なげる", "kanjis": [{"char": "投", "reading": "ナ", "type": "訓読み"}]}]},
+    {"sentence": "たゆまぬ努力によって偉大な偉業を成す。", "words": [{"word": "成す", "reading": "なす", "kanjis": [{"char": "成", "reading": "ナ", "type": "訓読み"}]}]},
+    {"sentence": "甘えてくる可愛い愛犬の頭を優しく撫でる。", "words": [{"word": "撫でる", "reading": "なでる", "kanjis": [{"char": "撫", "reading": "ナデ", "type": "訓読み"}]}]},
+    {"sentence": "身分を明かして堂々と自らの本名を名乗る。", "words": [{"word": "名乗る", "reading": "なのる", "kanjis": [{"char": "名", "reading": "ナ", "type": "訓読み"}, {"char": "乗る", "reading": "のる", "kanjis": [{"char": "乗", "reading": "ノ", "type": "訓読み"}]}]}]},
+    {"sentence": "放課後に教室でピアノの弾き方を習う。", "words": [{"word": "習う", "reading": "ならう", "kanjis": [{"char": "習", "reading": "ナラ", "type": "訓読み"}]}]},
+    {"sentence": "成功した先人の優れた前例に倣う。", "words": [{"word": "倣う", "reading": "ならう", "kanjis": [{"char": "倣", "reading": "ナラ", "type": "訓読み"}]}]},
+    {"sentence": "人気の店の前に長い整列を作って並ぶ。", "words": [{"word": "並ぶ", "reading": "ならぶ", "kanjis": [{"char": "並", "reading": "ナラ", "type": "訓読み"}]}]},
+    {"sentence": "本格的な運動の前に少しずつ体を慣らす。", "words": [{"word": "慣らす", "reading": "ならす", "kanjis": [{"char": "慣", "reading": "ナラ", "type": "訓読み"}]}]},
+    {"sentence": "危険を感じて急いでその現場から逃げる。", "words": [{"word": "逃げる", "reading": "にげる", "kanjis": [{"char": "逃", "reading": "ニゲ", "type": "訓読み"}]}]},
+    {"sentence": "大雨によって川の綺麗な清流が濁る。", "words": [{"word": "濁る", "reading": "にごる", "kanjis": [{"char": "濁", "reading": "ニゴ", "type": "訓読み"}]}]},
+    {"sentence": "鋭い眼光で向かい合う相手を睨む。", "words": [{"word": "睨む", "reading": "にらむ", "kanjis": [{"char": "睨", "reading": "ニラ", "type": "訓読み"}]}]},
+    {"sentence": "誇りを持って自らの組織の重責を担う。", "words": [{"word": "担う", "reading": "になう", "kanjis": [{"char": "担", "reading": "ニナ", "type": "訓読み"}]}]},
+    {"sentence": "ハンカチを出して額に浮かんだ汗を拭う。", "words": [{"word": "拭う", "reading": "ぬぐう", "kanjis": [{"char": "拭", "reading": "ヌグ", "type": "訓読み"}]}]},
+    {"sentence": "玄関で室内に入る前に泥のついた靴を脱ぐ。", "words": [{"word": "脱ぐ", "reading": "ぬぐ", "kanjis": [{"char": "脱", "reading": "ヌ", "type": "訓読み"}]}]},
+    {"sentence": "他人の家に入り込んで金品を盗む。", "words": [{"word": "盗む", "reading": "ぬすむ", "kanjis": [{"char": "盗", "reading": "ヌス", "type": "訓読み"}]}]},
+    {"sentence": "ハケを使って壁全体に綺麗にペンキを塗る。", "words": [{"word": "塗る", "reading": "ぬる", "kanjis": [{"char": "塗", "reading": "ヌ", "type": "訓読み"}]}]},
+    {"sentence": "世界中の人々が平和と幸せを願う。", "words": [{"word": "願う", "reading": "ねがう", "kanjis": [{"char": "願", "reading": "ネガ", "type": "訓読み"}]}]},
+    {"sentence": "静かな部屋のベッドでぐっすり眠る。", "words": [{"word": "眠る", "reading": "ねむる", "kanjis": [{"char": "眠", "reading": "ネム", "type": "訓読み"}]}]},
+    {"sentence": "物陰からじっと隙を見て獲物を狙う。", "words": [{"word": "狙う", "reading": "ねらう", "kanjis": [{"char": "狙", "reading": "ネラ", "type": "訓読み"}]}]},
+    {"sentence": "家族全員の絶え間ない幸福を望む。", "words": [{"word": "望む", "reading": "のぞむ", "kanjis": [{"char": "望", "reading": "ノゾ", "type": "訓読み"}]}]},
+    {"sentence": "緊張感の漂う決戦の試験に臨む。", "words": [{"word": "臨む", "reading": "のぞむ", "kanjis": [{"char": "臨", "reading": "ノゾ", "type": "訓読み"}]}]},
+    {"sentence": "ドアのわずかな隙間から中を覗く。", "words": [{"word": "覗く", "reading": "のぞく", "kanjis": [{"char": "覗", "reading": "ノゾ", "type": "訓読み"}]}]},
+    {"sentence": "徹底的な話し合いで将来の不安を取り除く。", "words": [{"word": "除く", "reading": "のぞく", "kanjis": [{"char": "除", "reading": "ノゾ", "type": "訓読み"}]}]},
+    {"sentence": "教育によって子どもの豊かな才能を伸ばす。", "words": [{"word": "伸ばす", "reading": "のばす", "kanjis": [{"char": "伸", "reading": "ノバ", "type": "訓読み"}]}]},
+    {"sentence": "装備を整えて高い山に登る。", "words": [{"word": "登る", "reading": "のぼる", "kanjis": [{"char": "登", "reading": "ノボ", "type": "訓読み"}]}]},
+    {"sentence": "地平線の彼方から力強く太陽が昇る。", "words": [{"word": "昇る", "reading": "のぼる", "kanjis": [{"char": "昇", "reading": "ノボ", "type": "訓読み"}]}]},
+    {"sentence": "大勢の前で自信を持って自らの意見を述べる。", "words": [{"word": "述べる", "reading": "のべる", "kanjis": [{"char": "述", "reading": "ノベ", "type": "訓読み"}]}]},
+    {"sentence": "後世に残る素晴らしい金字塔の記録を残す。", "words": [{"word": "残す", "reading": "のこす", "kanjis": [{"char": "残", "reading": "ノコ", "type": "訓読み"}]}]},
+    {"sentence": "新聞の第一面に大きな見出し記事を載せる。", "words": [{"word": "載せる", "reading": "のせる", "kanjis": [{"char": "載", "reading": "ノセ", "type": "訓読み"}]}]},
+    {"sentence": "業務全体のプロセス見直しと効率化を図る。", "words": [{"word": "図る", "reading": "はかる", "kanjis": [{"char": "図", "reading": "ハカ", "type": "訓読み"}]}]},
+    {"sentence": "ストップウォッチで正確なタイムを計る。", "words": [{"word": "計る", "reading": "はかる", "kanjis": [{"char": "計", "reading": "ハカ", "type": "訓読み"}]}]},
+    {"sentence": "台はかりを使って荷物の正確な重さを量る。", "words": [{"word": "量る", "reading": "はかる", "kanjis": [{"char": "量", "reading": "ハカ", "type": "訓読み"}]}]},
+    {"sentence": "レーザー計測器で二点間の精密な距離を測る。", "words": [{"word": "測る", "reading": "はかる", "kanjis": [{"char": "測", "reading": "ハカ", "type": "訓読み"}]}]},
+    {"sentence": "温かい家庭の環境で豊かな愛情を育む。", "words": [{"word": "育む", "reading": "はぐくむ", "kanjis": [{"char": "育", "reading": "ハグク", "type": "訓読み"}]}]},
+    {"sentence": "親しい友人同士の楽しい会話が弾む。", "words": [{"word": "弾む", "reading": "はずむ", "kanjis": [{"char": "弾", "reading": "ハズ", "type": "訓読み"}]}]}
+  ]
 }
